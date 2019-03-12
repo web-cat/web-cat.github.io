@@ -46,6 +46,40 @@ data:
           actions:
             - text: Learn More
               url: CodeWorkout.html
+        - title: Growth Mindset Feedback
+          excerpt: >
+            When students believe they can get smarter, they understand that
+            effort makes them stronger--that's a growth mindset. Such a
+            belief is linked to more positive academic outcomes. We are
+            actively researching ways to automated assignment provide
+            feedback that promote growth mindset beliefs and to foster
+            a more positive student experience.
+          actions:
+            - text: Learn More
+              url: CodeWorkout.html
+        - title: PEML
+          excerpt: >
+            The Programming Exercise Markup Language (PEML) is a simple, easy
+            format for CS and IT instructors of all kinds (college, community
+            college, high school, whatever) to describe programming assignments
+            and activities. We want it to be so easy (and obvious) to use that
+            instructors won't see it as a technological or notational barrier
+            to expressing their assignments.
+          actions:
+            - text: Learn More
+              url: https://cssplice.github.io/peml/
+        - title: SPLICE
+          excerpt: >
+            The SPLICE project (Standards, Protocols, and
+            Learning Infrastructure for Computing Education) supports the
+            CS Education community by supplying documentation and
+            infrastructure to help with adopting shared standards, protocols,
+            and tools. The project promotes development and broader reuse
+            of innovative learning content that is instrumented for
+            rich data collection.
+          actions:
+            - text: Learn More
+              url: https://cssplice.github.io/
         - title: LIFT
           excerpt: >
             A powerful, student-friendly library that supports writing unit
