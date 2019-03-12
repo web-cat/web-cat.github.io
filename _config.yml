@@ -1,28 +1,41 @@
-remote_theme: pmarsceill/just-the-docs
-
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole site, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Web-CAT
-description: "Automatic grading using student-written tests with the most widely used open-source automatic program grader in the world."
-#baseurl: "/just-the-docs/" # the subpath of your site, e.g. /blog
-url: "https://web-cat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: >
+  Automatic grading using student-written tests with the most widely used
+  open-source automatic program grader in the world.
+url: "https://web-cat.github.io"
+repository: web-cat/web-cat.github.io
+repository_tree: master
+lang: en
 
-permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
+permalink: none # pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "lib/", "bin/", "README.md", "Rakefile", "utterances.json"]
+
+
+# ----------------------------------------------------------------------
+# Front matter defaults:
+# ----------------------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+    values:
+      license: true
+      # sidebar:
+      #  nav: sb-main
+      show_edit_on_github: true
+
+
+# ----------------------------------------------------------------------
+# Theme selection:
+# ----------------------------------------------------------------------
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: kitian616/jekyll-TeXt-theme
+
+
+# ----------------------------------------------------------------------
+# For JTD theme:
+# ----------------------------------------------------------------------
 # Enable or disable the site search
 search_enabled: true
 
@@ -32,8 +45,35 @@ aux_links:
     - "//github.com/web-cat"
 
 # Color scheme currently only supports "dark" or nil (default)
+
 color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 #ga_tracking: UA-2709176-10
+
+
+# ----------------------------------------------------------------------
+# For TeXT theme:
+# ----------------------------------------------------------------------
+text_skin: default
+highlight_theme: default
+license: CC-BY-NC-SA-4.0
+search:
+  provider: default
+
+author:
+  type      : organization
+  name      : Virginia Tech
+  url       : http://www.cs.vt.edu/
+  bio: >
+    Web-CAT and related projects are academic research projects developed
+    at Virginia Tech. The project lead is Stephen Edwards.
+  email     : webcat@vt.edu
+  facebook  :
+  twitter   : 
+  linkedin  :
+  github    : web-cat
+
+# For addtional options:
+# https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/_config.yml

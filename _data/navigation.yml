@@ -1,0 +1,33 @@
+header:
+  - title: About
+    url: about.html
+  - title: Community/Forums
+    url: community.html
+  #- title: Cookbook
+  #  url: https://web-cat.github.io/web-cat-cookbook/
+  - title: Projects
+    url: projects.html
+  #- title: Forums
+  #  url: https://web-cat.github.io/forums/
+  - title: Downloads
+    url: downloads.html
+  - title: GitHub
+    url: https://github.com/web-cat
+
+
+sb-main:
+  - title: Web-CAT.org
+    children:
+      - title: Web-CAT Cookbook
+        url: https://web-cat.github.io/web-cat-cookbook/
+      - title: Discussion Forums
+        url: https://web-cat.github.io/forums/
+  - title: Projects
+    children:
+      - title: Web-CAT
+      - title: CodeWorkout
+      - title: PEML
+        url: https://cssplice.github.io/peml/
+      - title: LIFT
+      - title: Pythy
+      - title: Dereferee
