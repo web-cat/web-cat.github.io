@@ -3,7 +3,7 @@ title: Web-CAT
 description: >
   Automatic grading using student-written tests with the most widely used
   open-source automatic program grader in the world.
-url: "https://web-cat.github.io"
+url: "https://web-cat.org"
 repository: web-cat/web-cat.github.io
 repository_tree: master
 lang: en
