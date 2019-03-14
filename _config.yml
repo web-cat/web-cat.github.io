@@ -9,8 +9,19 @@ repository_tree: master
 lang: en
 
 
-permalink: none # pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "lib/", "bin/", "README.md", "Rakefile", "utterances.json"]
+permalink: none
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - package.json
+  - package-lock.json
+  - /node_modules
+  - /utterances.json
+
+collections:
+  projects:
+    output: true
 
 
 # ----------------------------------------------------------------------
@@ -20,10 +31,23 @@ defaults:
   - scope:
       path: ""
     values:
+      layout: article
       license: true
-      # sidebar:
-      #  nav: sb-main
+      sidebar:
+        nav: sb-main
       show_edit_on_github: true
+      full_width: true
+  - scope:
+      type: posts
+    values:
+      license: false
+      show_edit_on_github: false
+      permalink: /:categories/:year/:month/:day/:title:output_ext
+  - scope:
+      type: projects
+    values:
+      layout: project
+      permalink: /:collection/:title/
 
 
 # ----------------------------------------------------------------------
@@ -58,7 +82,7 @@ color_scheme: nil
 # ----------------------------------------------------------------------
 text_skin: default
 highlight_theme: default
-license: CC-BY-NC-SA-4.0
+license: LGPL-3.0
 search:
   provider: default
 

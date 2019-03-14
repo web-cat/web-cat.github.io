@@ -1,20 +1,30 @@
 ---
-title: 'Web-CAT: the Web-based Center for Automated Testing'
 layout: landing
-excerpt: Automatic grading using student-written tests.
 mode: immersive
+sidebar: none
+show_edit_on_github: false
+
+title: 'Web-CAT: the Web-based Center for Automated Testing'
+excerpt: >
+  Automatic grading using student-written tests.<br/>
+  Awesome tools and research for CS educators.
 
 header:
   theme: dark
-  
 article_header:
-#  actions:
-#    - text: Getting Started
-#      type: error
-#      url: /docs/en/quick-start
-#    - text: Demo
-#      type: outline-info
-#      url: /test/
+  actions:
+    - text: News
+      type: secondary
+      url: /news/
+    - text: Getting Started
+      type: secondary
+      url: /quick-start.html
+    - text: Demo
+      type: secondary
+      url: /projects/Web-CAT/SubmissionWalkthrough.html
+    - text: Other Tools
+      type: secondary
+      url: /projects/
   theme: dark
   type: overlay
   height: 860px
@@ -33,7 +43,7 @@ data:
         with each other, get support, and exchange ideas.
       actions:
         - text: Learn More
-          url: Web-CAT.html
+          url: projects/Web-CAT/
     - title: Our Other Educational Tools
       children:
         - title: CodeWorkout
@@ -45,7 +55,7 @@ data:
             learning.
           actions:
             - text: Learn More
-              url: CodeWorkout.html
+              url: /projects/CodeWorkout.html
         - title: Growth Mindset Feedback
           excerpt: >
             When students believe they can get smarter, they understand that
@@ -146,5 +156,6 @@ data:
         Clone our work, fork it, customize it, and send us improvements!
       actions:
         - text: '<i class="fab fa-github"></i> GitHub'
+          type: secondary
           url: https://github.com/kitian616/jekyll-TeXt-theme
 ---

@@ -1,7 +1,10 @@
-.article.full-width .page__content { padding: 0 3rem; margin: 0 auto; }
+.has-aside .page__content,
+.full-width .page__content { padding: 0 3rem; margin: 0 auto; }
+.landing.full-width .page__content { padding: 0; margin: 0; }
 .header .logo { margin-right: 1rem; }
 .landing .header--dark,
 .landing .article__header--overlay .hero--dark { text-shadow: 1px 1px 2px black; }
+.landing .article__header--overlay .hero--dark .button { text-shadow: none; }
 .landing.page__main--immersive .article__header--overlay .hero__content { padding-top: 190px; }
 .landing .header__brand { display: none; }
 .page__main--immersive .heros .hero__content { padding-top: 0; }

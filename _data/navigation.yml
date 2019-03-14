@@ -1,16 +1,16 @@
 header:
   - title: About
-    url: about.html
+    url: /about.html
   - title: Projects
-    url: projects.html
-  - title: Forums
-    url: http://web-cat.github.io/forums
+    url: /projects/
+  - title: Discussion
+    url: /discussion/
   #- title: Cookbook
   #  url: https://web-cat.github.io/web-cat-cookbook/
   #- title: Forums
   #  url: https://web-cat.github.io/forums/
   - title: Downloads
-    url: downloads.html
+    url: /downloads.html
   - title: GitHub
     url: https://github.com/web-cat
 
@@ -18,16 +18,51 @@ header:
 sb-main:
   - title: Web-CAT.org
     children:
-      - title: Web-CAT Cookbook
-        url: https://web-cat.github.io/web-cat-cookbook/
-      - title: Discussion Forums
-        url: https://web-cat.github.io/forums/
-  - title: Projects
+      - title: News
+        url: /news/
+      - title: Discussion
+        url: /discussion/
+      - title: Contribute!
+        url: /author-guide.html
+      - title: Publications
+        url: /projects/publications/
+  - title: Web-CAT
     children:
-      - title: Web-CAT
-      - title: CodeWorkout
+      - title: What is Web-CAT?
+        url: /projects/Web-CAT/
+      - title: Demo
+        url: /projects/Web-CAT/SubmissionWalkthrough.html
+      - title: Web-CAT Cookbook
+        url: /projects/Web-CAT/Cookbook.html
+      - title: Growth Mindset Feedback
+        url: /projects/growth-mindset-feedback/
+      - title: Request Account
+        url: /projects/Web-CAT/RequestAccount.html
+      - title: Student (Java) Library
+        url: /projects/student-library/
+      - title: Developer Blog
+        url: /devblog/
+  - title: CodeWorkout
+    children:
+      - title: What is CodeWorkout?
+        url: /projects/CodeWorkout/
+      - title: Demo
+        url: /projects/CodeWorkout/demo.html
+      - title: Request Account
+        url: /projects/CodeWorkout/RequestAccount.html
+  - title: More Projects
+    children:
       - title: PEML
         url: https://cssplice.github.io/peml/
-      - title: LIFT
       - title: Pythy
+        url: /projects/Pythy/
+      - title: LIFT
+        url: /projects/LIFT/
+      - title: Sofia
+        url: /projects/Sofia/
+      - title: CxxTest
+        url: /projects/CxxTest/
       - title: Dereferee
+        url: /projects/Dereferee/
+      - title: Additional Resources
+        url: /projects/resources/

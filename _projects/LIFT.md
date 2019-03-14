@@ -1,0 +1,26 @@
+---
+title: LIFT
+---
+
+The **Library for Interface Testing (LIFT)** supports writing unit tests for
+Java applications with graphical user interfaces (GUIs). Current
+frameworks for GUI testing provide the necessary tools, but are
+complicated and difficult to use for beginners, often requiring a
+significant amount of time to learn. LIFT takes the approach that unit
+testing GUIs should be no different than testing any other type of code.
+By providing a set of frequently used filters for identifying GUI
+components and a set of operations for acting on those components, LIFT
+lets programmers quickly and easily test their GUI applications.
+
+<!-- more -->
+
+LIFT is now included as part of the
+[student library](/projects/student-library/), so refer to that project
+for download information.
+
+For more information:
+
+* [LIFT: Taking GUI unit testing to new heights](https://doi.org/10.1145/1953163.1953343),
+  a conference paper describing Pythy from SIGCSE 2011
+* [Student library project](/projects/student-library/)
+  (contains source code and binaries)

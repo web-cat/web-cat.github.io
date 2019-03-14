@@ -30,7 +30,7 @@ layout: base
 
 {%- assign _article_header_excerpt_truncate = include.excerpt_truncate | default: 200 -%}
 
-{%- if page.sidebar -%}
+{%- if page.sidebar and page.sidebar != 'none' -%}
 <div class="layout--page layout--page--sidebar clearfix js-page-root">
   <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
   <div class="page__viewport">
@@ -149,7 +149,11 @@ layout: base
                     {%- include article-info.html article=page semantic=false -%}
                     {%- include article-header.html article=page semantic=false -%}
                     {%- if page.excerpt -%}
-                      <p class="overlay__excerpt">{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
+                      {%- assign _page_excerpt_formatted = page.excerpt -%}
+                      {%- if page.layout != 'landing' -%}
+                        {%- assign _page_excerpt_formatted = _page_excerpt_formatted  | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate -%}                       
+                      {%- endif -%}
+                      <p class="overlay__excerpt">{{ _page_excerpt_formatted }}</p>
                     {%- endif -%}
                     {%- if page.article_header.actions -%}
                       <ul class="menu">
