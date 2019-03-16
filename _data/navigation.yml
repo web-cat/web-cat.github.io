@@ -25,7 +25,7 @@ sb-main:
       - title: Contribute!
         url: /author-guide.html
       - title: Publications
-        url: /projects/publications/
+        url: /publications/
   - title: Web-CAT
     children:
       - title: What is Web-CAT?

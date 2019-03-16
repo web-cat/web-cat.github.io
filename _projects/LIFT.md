@@ -1,5 +1,6 @@
 ---
 title: LIFT
+tags: [ LIFT, Android ]
 ---
 
 The **Library for Interface Testing (LIFT)** supports writing unit tests for
@@ -17,10 +18,3 @@ lets programmers quickly and easily test their GUI applications.
 LIFT is now included as part of the
 [student library](/projects/student-library/), so refer to that project
 for download information.
-
-For more information:
-
-* [LIFT: Taking GUI unit testing to new heights](https://doi.org/10.1145/1953163.1953343),
-  a conference paper describing Pythy from SIGCSE 2011
-* [Student library project](/projects/student-library/)
-  (contains source code and binaries)

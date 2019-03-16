@@ -1,0 +1,17 @@
+---
+title: Publications
+license: false
+---
+{% assign _pub_count = site.data.publications | size %}
+{% include snippets/collect-tags.html items=site.data.publications %}
+{% assign pubtags = __return %}
+<div class="layout--archive js-all">
+  {% include tags.html item_count=_pub_count tags=pubtags %}
+  <div class="js-result layout--archive__result d-none">
+    {% include publication-list.html %}
+  </div>
+</div>
+
+<script>
+  {% include scripts/archieve.js %}
+</script>

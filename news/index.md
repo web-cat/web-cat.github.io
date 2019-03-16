@@ -1,6 +1,7 @@
 ---
 title: News
 layout: articles
+license: false
 articles:
   data_source: site.categories.news
   type: item

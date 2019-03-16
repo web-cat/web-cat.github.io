@@ -1,0 +1,15 @@
+{% assign _count = include.items | size %}
+{% assign _tag_map = '' | split: ' ' %}
+{% assign _tags = '' | split: ' ' %}
+{% assign _tag_lists = include.items | map: 'tags' %}
+{% for _tag_list in _tag_lists %}
+  {% assign _tags = _tags | concat: _tag_list %}
+{% endfor %}
+{% assign _tags = _tags | uniq %}
+{% for _tag in _tags %}
+  {% assign _tag_pair = '' | split: ' ' | push: _tag %}
+  {% assign _tag_value = include.items | where_exp: 'item', 'item.tags contains _tag' %}
+  {% assign _tag_pair = _tag_pair | push: _tag_value %}
+  {% assign _tag_map = _tag_map | push: _tag_pair %}
+{% endfor %}
+{% assign __return = _tag_map %}
