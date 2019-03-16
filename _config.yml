@@ -48,6 +48,8 @@ defaults:
     values:
       layout: project
       permalink: /:collection/:title/
+      show_date: false
+      show_tags: false
 
 
 # ----------------------------------------------------------------------

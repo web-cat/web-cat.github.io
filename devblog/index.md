@@ -1,6 +1,7 @@
 ---
 title: Web-CAT Developer Blog
 layout: articles
+license: false
 articles:
   data_source: site.categories.devblog
   type: item

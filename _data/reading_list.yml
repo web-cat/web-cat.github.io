@@ -1,0 +1,48 @@
+## -> properties
+# - type:
+#   citation:
+#   date:
+#   tags:
+#   id:
+#   summary:
+#   abstract:
+
+- citation: >
+    Michael H. Goldwasser.  [A gimmick to integrate software testing
+    throughout the curriculum](http://doi.acm.org/10.1145/563340.563446).
+    In _Proceedings of the 33<sup>rd</sup> SIGCSE Technical Symposium
+    on Computer Science Education_, ACM, 2002, pp. 271-275.
+  date: 20020000
+  tags: [ testing, all-pairs ]
+  summary: >
+    Describes an approach to grading testing effort by running all student
+    test suites against all student programs, sort of like a "programming
+    contest."
+
+- citation: >
+    Edward L. Jones.  [SPRAE: A framework for teaching software testing in
+    the undergraduate
+    curriculum](http://serel.cis.famu.edu/~testlab/Papers/SPRAE-framework.pdf).
+    In _Proceedings of ADMI 2000_, Hampton, VA, 1-4 June 2000.
+  date: 20000604
+  tags: [ testing ]
+
+- citation: >
+    Edward L. Jones.  [Software testing in the computer science
+    curriculum--a holistic
+    approach](http://doi.acm.org/10.1145/359369.359392). In
+    _Proceedings of the Australasian Conference on Computing Education_,
+    ACM, 2000, pp. 153-157.
+  date: 20000000
+  tags: [ testing ]
+  summary: >
+    Proposes the integration of software testing across the curriculum, in
+    conjunction with an automated grading approach.
+
+- citation: >
+    Edward L. Jones.  [A perspective on teaching software
+    testing](http://portal.acm.org/citation.cfm?id=374715&coll=ACM&dl=ACM).
+    _Journal of Computing in Small Colleges_, 16(3): 92-100,
+    March 2001.
+  date: 20010300
+  tags: [ testing ]

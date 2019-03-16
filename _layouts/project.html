@@ -3,3 +3,13 @@ layout: article
 type: webpage
 ---
 {{ content }}
+
+{% if page.tags[0] %}
+  {% assign _tag1 = page.tags[0] %}
+  {% assign _tag2 = page.tags[1] %}
+  {% if page.tags[1] %}
+    {% include publication-list.html title='Related Publications' tag=_tag1 ortag2=_tag2 %}
+  {% else %}
+    {% include publication-list.html title='Related Publications' tag=_tag1 %}
+  {% endif %}
+{% endif %}

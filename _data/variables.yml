@@ -7,6 +7,7 @@ default:
     home: /
     archive:  /archive.html
     rss:  /feed.xml
+    publications: /publications/
   mathjax: false
   mathjax_autoNumber: false
   mermaid: false
@@ -38,6 +39,11 @@ default:
     license: false
     pageview: false
     search: default
+
+pubtags:
+  testing: [a, a, a, a]
+  Java: [a]
+  'all-pairs': [a]
 
 sources:
   bootcdn:

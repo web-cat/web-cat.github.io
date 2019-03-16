@@ -1,0 +1,1559 @@
+## -> properties
+# - type:
+#   citation:
+#   date:
+#   tags:
+#   id:
+#   summary:
+#   abstract:
+
+- type: inproceedings
+  id: 'tablet-pcs'
+  date: 20040000
+  title: 'Experiences using tablet PCs in a programming laboratory'
+  citation: >
+    Stephen H. Edwards and N. Dwight Barnette.  <a
+    href="http://people.cs.vt.edu/~edwards/downloads/170-Edwards.pdf">Experiences
+    Using Tablet PCs in a
+    Programming Laboratory</a>. In <i>Proceedings of the 5th Conference
+    on Information Technology Education</i>, ACM Press, New York, NY,
+    2004, p. 160-164.
+  abstract: >
+    This experience report describes lessons learned using first
+    generation tablet PCs to support active learning in an
+    undergraduate computer science laboratory course. We learned that
+    tablet PCs are poorly matched to typical CS laboratory tasks:
+    writing, compiling, and testing programs. Pen-based input is
+    inadequate for typical program editing tasks, and a pen is less
+    effective than a mouse when typing at a keyboard. Students show a
+    clear preference for desktop computers in this environment. Nearly
+    three quarters of our students preferred a lab supporting wireless
+    connectivity, however. Students also believe that the use of
+    movable, reconfigurable furniture allows them to work in
+    arrangements that are more natural during lab. Overall, students
+    preferred the flexibility provided by wireless network access,
+    freedom from cables, and movable furniture, but felt tablets were
+    ineffective for programming tasks.
+  tags: [tablet PCs, lab, cs education, SIGITE]
+
+- type: article
+  id: comparing-strategies
+  date: 20050000
+  title: 'Comparing on-line education strategies across disciplines'
+  citation: >
+    Stephen H. Edwards and Diane M. Hodge.  <a
+    href="http://www.iiisci.org/Journal/sci/Abstract.asp?var=&id=P394107">Lessons
+    learned by comparing on-line education strategies across
+    disciplines</a>. <i>Journal of Systemics, Cybernetics and
+    Informatics</i>, 2005.
+  abstract: >
+    Invited special issue submission for the best papers from the
+    International Conference on Education and Information Systems
+    (EISTA'03).
+  tags: [on-line, interdisciplinary, cs education]
+
+- type: article
+  id: stvr01
+  date: 20010600
+  title: 'A framework for practical, automated black-box testing of component-based software'
+  citation: >
+    Stephen H. Edwards. <a href="http://people.cs.vt.edu/~edwards/downloads/edwards-stvr-0106.pdf">A
+    framework for practical, automated black-box testing of
+    component-based software</a>. <i>Software Testing, Verification and
+    Reliability</i>, 11(2):97-111, June, 2001.
+  tags: [framework, black-box, testing, components, software engineering, built-in test, self-test, BIT, object-oriented]
+
+- type: article
+  id: stvr00
+  date: 20001200
+  title: 'Black-box testing using flowgraphs: An experimental assessment of effectiveness and automation poten'
+  citation: >
+    Stephen H. Edwards. <a
+    href="http://people.cs.vt.edu/~edwards/downloads/edwards-stvr-0012.pdf">Black-box testing using
+    flowgraphs: An experimental assessment of effectiveness and
+    automation potential</a>. <i>Software Testing, Verification and
+    Reliability</i>, 10(4):249--262, December, 2000.
+  tags: [black-box, testing, flowgraphs, software engineering, built-in test, self-test, BIT, object-oriented]
+
+- type: article
+  id: cse99
+  date: 19990400
+  title: 'An analysis of a course-oriented electronic mailing list'
+  citation: >
+    Stephen H. Edwards and Clifford A. Shaffer.  An analysis of a
+    course-oriented electronic mailing list.  <i>Computer Science
+    Education</i>, 9(1):8-22, April, 1999.
+  tags: [online, mailing list, cs education]
+
+- type: inproceedings
+  id: icse00
+  date: 20000000
+  title: 'Can quality graduate software engineering courses <i>really</i> be delivered asynchronously on-line?'
+  citation: >
+    Stephen H. Edwards.  <a
+    href="http://doi.acm.org/10.1145/337180.337512">Can quality
+    graduate software engineering courses <i>really</i> be delivered
+    asynchronously on-line?</a>.  In <i>Proceedings of the 22nd
+    International Conference on Software Engineering</i>, ACM CS Press,
+    2000, pp. 676--679.
+  tags: [quality, graduate, software engineering, asynchronous, on-line, cs education, ICSE]
+
+- type: inproceedings
+  id: sigcse98
+  date: 19980300
+  title: 'Providing intellectual focus to CS1/CS2'
+  citation: >
+    Timothy J. Long, Bruce W. Weide, Paolo Bucci, David S. Gibson,
+    Joseph E. Hollingsworth, Murali Sitaraman, and Stephen H. Edwards.
+    <a
+    href="http://www.cis.ohio-state.edu/~weide/sce/papers/focus-paper/focus-paper.html">Providing
+    intellectual focus to CS1/CS2</a>.  In
+    <i>Proceedings of the 29th SIGCSE Technical Symposium on Computer
+    Science Education</i>, ACM Press, 1998, pp. 252-256.
+  tags: [CS1, CS2, cs education, SIGCSE]
+
+- type: techreport
+  id: OSU97-TR42
+  date: 19970900
+  title: 'Providing intellectual focus to CS1/CS2'
+  citation: >
+    Tim Long, Bruce Weide, Paolo Bucci, David Gibson, Joseph
+    Hollingsworth, Murali Sitaraman, and Stephen Edwards. <i>Providing
+    Intellectual Focus to CS1/CS2</i>. <a
+    href="ftp://ftp.cis.ohio-state.edu/pub/tech-report/1997/TR42.ps.gz">Technical
+    report OSU-CISRC-9/97-TR42</a>, Dept. of Computer and
+    Information Science, The Ohio State University, Columbus, OH,
+    September, 1997.
+  tags: [CS1, CS2, cs education]
+
+- type: inproceedings
+  id: oopsla03b
+  date: 20031000
+  title: 'Teaching software testing: Automatic grading meets test-first coding'
+  citation: >
+    Stephen H. Edwards. <a
+    href="http://web-cat.org/publications/pos27-Edwards.pdf">Teaching
+    software testing: Automatic grading meets test-first coding</a>. 
+    In <em>Addendum to the 2003 Proceedings of the Conference on
+    Object-oriented Programming, Systems, Languages, and
+    Applications</em>, ACM, 2003, pp. 318-319.
+  abstract: >
+    You can see a one-page reduced version of the <a
+    href="http://web-cat.org/publications/TeachingSoftwareTesting.pdf">
+    actual poster</a>.
+  tags: [testing, cs education, auto-grading,  test-first coding, test-driven development, TDD, Web-CAT, poster, OOPSLA]
+
+- type: inproceedings
+  id: oopsla03a
+  date: 20031000
+  title: 'Rethinking computer science education from a test-first perspective'
+  citation: >
+    Stephen H. Edwards. <a
+    href="http://web-cat.org/publications/eds04-Edwards.pdf">Rethinking
+    computer science education from a test-first perspective</a>.  In
+    <em>Addendum to the 2003 Proceedings of the Conference on
+    Object-oriented Programming, Systems, Languages, and
+    Applications</em> (Educator's Symposium), ACM, 2003, pp. 148-155.
+  tags: [cs education, test-first coding, test-driven development, TDD, test-first coding, testing, Web-CAT, auto-grading, OOPSLA]
+
+- type: inproceedings
+  id: eista03a
+  date: 20030700
+  title: 'Using test-driven development in the classroom: Providing students with concrete feedback'
+  citation: >
+    Stephen H. Edwards. <a
+    href="http://web-cat.org/publications/Edwards-EISTA03.pdf">Using
+    test-driven development in the classroom: Providing students with
+    concrete feedback on performance</a>.  In <em>Proceedings of the
+    International Conference on Education and Information Systems:
+    Technologies and Applications</em> (EISTA'03), International
+    Institute of Informatics and Systemics, 2003, pp. 421–426. 
+  tags: [test-driven development, TDD, test-first coding, cs education, feedback, Web-CAT, auto-grading]
+
+- type: article
+  id: jeric03
+  date: 20030900
+  title: 'Improving student performance by evaluating how well students test their own programs'
+  citation: >
+    Stephen H. Edwards. <a
+    href="http://doi.acm.org/10.1145/1029994.1029995">Improving student
+    performance by evaluating how well students test their own
+    programs</a>.  <em>Journal of Educational Resources in
+    Computing</em>, 3(3):1-24, September 2003. 
+  tags: [student performance, testing, test-driven development, TDD, test-first coding, cs education, Web-CAT, auto-grading]
+
+- type: inproceedings
+  id: sigcse04
+  date: 20040300
+  title: 'Using software testing to move students from trial-and-error to reflection-in-action'
+  citation: >
+    Stephen H. Edwards. <a
+    href="http://web-cat.org/publications/p179-Edwards.pdf">Using
+    software testing to move students from trial-and-error to
+    reflection-in-action</a>.  In <em>Proceedings of the
+    35<sup>th</sup> SIGCSE Technical Symposium on Computer Science
+    Education</em>, ACM, 2004, pp. 26-30.
+  tags: [testing, trial-and-error, reflection-in-action, test-driven development, TDD, test-first coding, auto-grading, Web-CAT, cs education, SIGCSE]
+
+- type: inproceedings
+  id: asee05
+  date: 20050600
+  title: "Supporting on-line direct markup and evaluation of students' projects"
+  citation: >
+    Hussein Vastani, Stephen H. Edwards, and Manuel
+    P&eacute;rez-Qui&ntilde;ones. <a
+    href="http://www.asee.org/acPapers/code/getPaper.cfm?paperID=9543&a
+    mp;pdf=2005-1104_Final.pdf">Supporting on-line direct markup and
+    evaluation of students' projects</a>.  In <em>Proceedings of the
+    2005 American Society for Engineering Education Annual Conference
+    and Exposition</em>, ASEE, 2005, pp. 13595-13608.
+  abstract: >
+    Automated grading systems have been in use for several years.
+    These systems automate part of the grading process by compiling,
+    executing and testing student submitted source code. However, such
+    systems often fail to include a mechanism to allow instructors or
+    grader to provide free form comments on student work. One must
+    resort to other methods to provide feedback to students.</p>
+    <p>This paper presents the development of a feedback mechanism that
+    streamlines the grading process for instructors and teaching
+    assistants. A web-based grading tool has been developed that allows
+    course staff to enter comments for student programs directly
+    through a web browser. This tool is tightly integrated with
+    Web-CAT, an automated grader. The result is a one-stop web-based
+    interface for students to receive all of their feedback.</p> <p>We
+    present the results of an anonymous survey of computer science
+    professors from different universities on their expectations with
+    respect to TA grading activities for programming assignments, as
+    well as the learning outcomes these professors desire for their
+    students. In addition, we present the results of interviews with
+    teaching assistants in introductory programming level courses to
+    learn about the different grading methods they use when grading
+    programming assignments. Finally, we report on a usability
+    evaluation of the tool itself and discuss directions for future
+    work.
+  tags: [on-line, markup, feedback, auto-grading, cs education, Web-CAT, ASEE]
+
+- type: inproceedings
+  id: etx05a
+  date: 20051016
+  title: 'IDE support for test-driven development and automated grading in both Java and C++'
+  citation: >
+    Anthony Allowatt and Stephen H. Edwards. <a
+    href="http://web-cat.org/publications/edwards-etx.pdf">IDE support
+    for test-driven development and automated grading in both Java and
+    C++</a>.  In <i>Proceedings of the 2005 OOPSLA Workshop on Eclipse
+    Technology Exchange</i> (San Diego, California, October 16 - 17,
+    2005). ACM Press, New York, NY, pp. 100-104.
+  abstract: >
+    Students need to learn testing skills, and using test-driven
+    development on assignments is one way to help students learn.  We
+    use a flexible automated grading system called Web-CAT to assess
+    student assignments, including the validity and completeness of
+    their own test cases.  By building on existing educational plug-ins
+    for Eclipse, and adding our own plug-ins for electronic submission
+    and for unit testing support in C++, we are able to use Eclipse as
+    a portal to all the services our students will need, allowing them
+    to accomplish all their tasks entirely within the IDE, from their
+    project’s inception to its submission and evaluation.  Further,
+    we are able to carry students through the transition from Java
+    programming to C++ programming within this same environment.
+  tags: [IDE, test-driven development, TDD, test-first coding, auto-grading, plug-in, Eclipse, Java, C++, OOPSLA, Web-CAT]
+
+- type: article
+  id: cie06
+  date: 20060700
+  title: "Supporting on-line direct markup and evaluation of students' projects"
+  citation: >
+    Hussein Vastani, Stephen H. Edwards, and Manuel A.
+    P&eacute;rez-Qui&ntilde;ones. Supporting on-line direct markup and
+    evaluation of students' projects.  <em>Computers in Education
+    Journal</em>, 16(3):88-99, July-Sept. 2006.
+  tags: [on-line, markup, feedback, auto-grading, cs education, Web-CAT]
+
+- type: inproceedings
+  id: eista03b
+  date: 20030700
+  title: 'Lessons learned by comparing on-line education strategies across disciplines'
+  citation: >
+    Stephen H. Edwards and Diane M. Hodge.  Lessons learned by
+    comparing on-line education strategies across disciplines.  In
+    <i>Proceedings of the International Conference on Education and
+    Information Systems: Technologies and Applications</i> (EISTA'03),
+    International Institute of Informatics and Systemics, 2003, pp.
+    415–420.
+  tags: [on-line, cs education, interdisciplinary, social work]
+
+- type: unpublished
+  id: wtst03
+  date: 20030200
+  title: 'Automatically assessing assignments that use test-driven development'
+  citation: >
+    Stephen H. Edwards.  Automatically assessing assignments that use
+    test-driven development.  Presented at the 2003 Workshop on
+    Teaching Software Testing, February, 2003.
+  tags: [auto-grading, test-driven development, TDD, test-first coding, Web-CAT, cs education]
+
+- type: inproceedings
+  id: sigcse04b
+  date: 20040300
+  title: 'Developing online learning modules using the adaptive hypertext features of NetCoach'
+  citation: >
+    Paulette J. Goodman and Stephen H. Edwards.  Developing online
+    learning modules using the adaptive hypertext features of NetCoach.
+    Poster presented at the 35<sup>th</sup> SIGCSE Technical Symposium
+    on Computer Science Education, 2004.
+  tags: [online, learning modules, adaptive hypertext, NetCoach, cs education, testing, SIGCSE]
+
+- type: inproceedings
+  id: SITE06
+  date: 20060000
+  title: 'An online teacher peer review system'
+  citation: >
+    Aaron Powell, Scott Turner, Manas Tungare, Manuel A.
+    P&eacute;rez-Qui&ntilde;ones, and Stephen H. Edwards.. <a
+    href="http://www.editlib.org/index.cfm?fuseaction=Reader.ViewAbstract&paper_id=22015">An
+    online teacher peer review system</a>. In C.
+    Crawford et al. (Eds.), <i>Proceedings of Society for Information
+    Technology and Teacher Education International Conference 2006</a>,
+    AACE, Chesapeake, VA, 2006, pp. 126-133.
+  abstract: >
+    We describe the development of an online peer review module for the
+    Moodle (<a href="http://moodle.org">http://moodle.org</a>) course
+    management system. We have designed the system to be quite flexible
+    for many different methods of peer review. One important feature is
+    a rubric authoring tool that allows instructors to create a table
+    of criteria in an online form which students can use to submit
+    their feedback. We discuss some peer review literature and then
+    present some scenarios of use for this tool. We cover some design
+    issues and how we addressed them and conclude with a discussion of
+    evaluation and future work.
+  tags: [on-line, peer review, Moodle]
+
+- type: inproceedings
+  id: SIGCSE06a
+  date: 20060303
+  title: 'an adaptive learning module to teach testing'
+  citation: >
+    Rahul Agarwal, Stephen H. Edwards, and Manuel A.
+    P&eacute;rez-Qui&ntilde;ones. <a
+    href="http://doi.acm.org/10.1145/1121341.1121420">Designing an
+    adaptive learning module to teach software testing</a>. In
+    <i>Proceedings of the 37<sup>th</sup> SIGCSE Technical Symposium on
+    Computer Science Education</i> (Houston, Texas, USA, March 03 - 05,
+    2006). ACM Press, New York, NY, pp. 259-263.
+  abstract: >
+    Adaptive learning systems aim to precisely tailor education and
+    training to the individual needs of learners. Such systems use an
+    internal model of a user’s current knowledge to adjust the
+    navigational affordances and presentation order of material. The
+    user model is incrementally built and updated as the user
+    demonstrates mastery by completing exercises and tests. Designing
+    courses that are delivered adaptively involves addressing many
+    complexities.  This paper describes experiences designing the first
+    adaptive module in a series intended to teach software testing
+    skills. Experiences in using the first module and a preliminary
+    evaluation of its effectiveness are presented.
+  tags: [learning module, cs education, NetCoach, adaptive hypertext, on-line, self-paced, SIGCSE]
+
+- type: inproceedings
+  id: ASEE06
+  date: 20060600
+  title: 'Helping students visualize their grade performance'
+  citation: >
+    William Humphries, Justin Gawrilow, Scott Turner, Manuel A.
+    P&eacute;rez-Qui&ntilde;ones, and Stephen H. Edwards. <a
+    href="http://www.asee.org/acPapers/code/getPaper.cfm?paperID=11307&pdf=2006Full1164.pdf">Helping
+    students visualize their grade
+    performance</a>.  In <i>Proceedings of the American Society for
+    Engineering Education Annual Conference</i>, ASEE, 2006, pp.
+    2006-1164.
+  abstract: >
+    This paper discusses the design of visualizations of student grade
+    performance. A needs analysis identified five qualities of
+    performance that students and faculty believe to be important.
+    These were used as requirements for the design of several
+    visualizations. These visualizations were implemented as an
+    integrated feature of the electronic grade book of a popular Course
+    Management System (Moodle).  This paper discusses the motivations
+    for our work, the qualities of performance identified, the
+    implemented visualizations, and an initial evaluation of their
+    utility.
+  tags: [graph visualization, course management system, self-assessment, tracking, monitoring progress, Moodle, ASEE]
+
+- type: inproceedings
+  id: savcbs04a
+  date: 20040800
+  title: 'A language providing automated self-testing for formally specified components'
+  citation: >
+    Roy P. Tan and Stephen H. Edwards. <a
+    href="http://www.cs.iastate.edu/~leavens/SAVCBS/2004/posters/Tan-Edwards.pdf">Designing
+    a programming language to provide automated
+    self-testing for formally specified software components</a>. In
+    <i>SAVCBS 2004: Specification and Verification of Component Based
+    Systems</i>, Technical Report \#04-09, Dept. of Computer Science,
+    Iowa State University, Ames, IA, August 2004, pp. 130-133.
+  tags: [design, programming language, components, Sulu, testing, assertion checking, Java, object-oriented, contract, dbC, BIT, built-in test, self-test, formal specification, run-time verification, SAVCBS]
+
+- type: unpublished
+  id: etx05b
+  date: 20051000
+  title: 'IDE support for test-driven development and automated grading in both Java and C++'
+  citation: >
+    Anthony Allowatt and Stephen H. Edwards. <a
+    href="http://web-cat.org/publications/ETXPoster.pdf">IDE support
+    for test-driven development and automated grading in both Java and
+    C++</a>.  Poster presented at the eTX poster session of OOPSLA'05:
+    the 20th Annual ACM SIGPLAN Conference on Object Oriented
+    Programming, Systems, Languages, and Applications, October 2005.
+  abstract: >
+    Students need to learn testing skills, and using test-driven
+    development on assignments is one way to help students learn. JUnit
+    support in Eclipse provides an integrated unit testing experience
+    for Java users, and combined with our automated grading system
+    called Web-CAT, we can assess the validity and completeness of
+    their test cases. To ease the transition from Java programming to
+    C++ programming, we have developed a plug-in to integrate CxxTest,
+    a C++ unit testing framework, into Eclipse by using the C
+    Development Tools (CDT) to write new incremental builders that
+    detect test cases and generate an appropriate runner for them. A
+    CxxTest view is also provided that duplicates the look and feel of
+    the JUnit view as closely as is appropriate. Further, we have
+    created a extensible plug-in that provides an interface that allows
+    students to automatically submit their projects to an internet site
+    for collection or to an automated grading system such as Web-CAT,
+    whose results will be presented to the student directly in the
+    Eclipse IDE.
+  tags: [IDE, test-driven development, TDD, test-first coding, auto-grading, plug-in, Eclipse, Java, C++, OOPSLA, Web-CAT]
+
+- type: inproceedings
+  id: resolve06b
+  date: 20060400
+  title: 'Using industrial tools to test and grade Resolve/C++ programs'
+  citation: >
+    Stephen H. Edwards. <a
+    href="http://people.cs.vt.edu/~edwards/Resolve-2006-papers/Edwards.html">Using industrial
+    tools to test and grade Resolve/C++ programs</a>.  In
+    <i>Proceedings of the Resolve Workshop 2006</i>, Technical Report
+    #06-10, Dept. of Computer Science, Virginia Tech, Blacksburg, VA,
+    April 2006, pp. 6-12.
+  abstract: >
+    We can adapt industrial-quality tools for developing, testing, and
+    grading Resolve/C++ programs, and use them to bring modern software
+    testing practices into the classroom. This paper demonstrates how
+    this can be done by taking a sample Resolve/C++ assignment based on
+    software testing ideas, building a simple Eclipse project that
+    handles build and execution actions for the assignment, writing all
+    of the tests using CxxTest, and processing a solution through
+    Web-CAT, and flexible automated grading system. Using tool support
+    to bring realistic testing practices into the classroom has
+    demonstrable learning benefits, and adapting existing tools for use
+    with Resolve/C++ will allow these same techniques to be used in
+    courses where Resolve/C++ is used. 
+  tags: [Resolve/C++, assertion checking, testing, cs education, CS1, CS2, CxxTest, Eclipse, JUnit, unit testing, framework, test-driven development, test-first coding, IDE, Web-CAT, auto-grading, RESOLVE]
+
+- type: unpublished
+  id: wipte06
+  date: 20060406
+  title: 'Note taking and the tablet PC'
+  citation: >
+    Scott Turner, Kibum Kim, Manuel A. P&eacute;rez-Qui&ntilde;ones,
+    and Stephen H. Edwards. <a
+    href="http://www.itap.purdue.edu/tlt/conference/wipte/turner.cfm">Note
+    taking and the tablet PC</a>.  Presented at the First Workshop
+    on the Impact of Pen-based Technology on Education, West Lafayette,
+    Indiana, April 6-7, 2006, 5 pp.
+  abstract: >
+    Note taking is a common and important classroom activity.  The
+    Tablet PC seems to be an obvious choice to support this task.  In
+    this paper, we explore its use and some of effects on note taking. 
+    To do this, we surveyed students about their note taking styles and
+    observed the Tablet PC’s use as a note taking device in lecture
+    settings.  From this we found that, due to variations in the speed
+    at which they could use the device, in the size of their
+    handwriting, and in how they dealt with the digital nature of the
+    platform, the Tablet PC does not meet everyone’s needs equally. 
+    While our evaluations occurred at the college level, the findings
+    are relevant to many other educational venues.
+  tags: [Note taking, tablet PC, pen-based input, cs education, WIPTE]
+
+- type: unpublished
+  id: sigcse04b
+  date: 20040304
+  title: 'Teaching software testing on-line'
+  citation: >
+    Stephen H. Edwards.  Teaching software testing on-line.  Invited
+    presentation and poster in the NSF CCLI Showcase at the 35th SIGCSE
+    Technical Symposium on Computer Science Education, March 4, 2004. 
+  tags: [testing, on-line, adaptive hypertext, cs education, NetCoach, Web-CAT, SIGCSE]
+
+- type: inproceedings
+  id: ccsce04
+  date: 20041014
+  title: 'Practical ways to add software testing to programming assignments'
+  citation: >
+    Stephen H. Edwards.  <a
+    href="http://portal.acm.org/citation.cfm?id=1040216&coll=portal&dl=ACM">Practical
+    ways to add software testing to programming
+    assignments</a>.  In <i>Proceedings of the 20th Annual CCSC Eastern
+    Conference</i>, CCSC, 2005, pp. 168-170.  Tutorial presented at the
+    conferece, October 14-16, 2004, Baltimore, MD. 
+  abstract: >
+    This tutorial provides a practical description of how to
+    incorporate software testing activities into programming
+    assignments. It introduces possible strategies for incorporating
+    testing, provides examples of each technique, and discusses the
+    corresponding advantages and disadvantages. A brief overview of
+    open source tools useful for student testing is also presented. 
+  tags: [testing, assignments, JUnit, BlueJ, Eclipse, Java, object-oriented, unit testing, framework, cs education, Web-CAT, test-driven development, TDD, test-first coding, auto-grading, CCSC]
+
+- type: inproceedings
+  id: sigcse05
+  date: 20050200
+  title: 'Using software testing to improve programming assignments and grading'
+  citation: >
+    Stephen H. Edwards.  Using software testing to improve programming
+    assignments and grading.  Workshop at the 36th SIGCSE Technical
+    Symposium on Computer Science Education, February 2005.
+  abstract: >
+    This workshop provides a practical, hands-on introduction to how
+    one can incorporate software testing activities as a regular part
+    of programming assignments.  It presents five different models for
+    how one can incorporate testing into assignments, provides examples
+    of each technique, and discusses the corresponding advantages and
+    disadvantages.  Approaches to assessment—using testing to assess
+    student code, assessing tests that students write, and automated
+    grading—are all discussed.  Advice for writing “testable”
+    assignments is given.  Hands-on examples are used throughout to
+    illustrate the techniques.
+  tags: [testing, assignments, JUnit, BlueJ, Eclipse, Java, object-oriented, unit testing, framework, cs education, Web-CAT, test-driven development, TDD, test-first coding, auto-grading, SIGCSE]
+
+- type: inproceedings
+  id: werst04
+  date: 20040900
+  title: 'Experiences evaluating the effectiveness of JML-JUnit testing'
+  citation: >
+    Roy P. Tan and Stephen H. Edwards. <a
+    href="http://doi.acm.org/10.1145/1022494.1022545">Experiences
+    evaluating the effectiveness of JML-JUnit testing</a>. <i>SIGSOFT
+    Software Engineering Notes</i>, 29(5): 1-4, Sep. 2004.  Section:
+    Proceedings of the Workshop on Empirical Research in Software
+    Testing.
+  abstract: >
+    This paper reports on the issues the authors encountered while
+    evaluating the JML-JUnit unit testing strategy. Given a predefined
+    set of parameter values, JML-JUnit can automatically provide unit
+    tests for Java programs that have specifications. We present a
+    mutation testing experiment that evaluates the effectiveness of
+    this testing strategy, and the lessons learned from doing this
+    experiment. We conclude that a benchmark will enable the testing
+    research community to meaningfully assess testing approaches.
+  tags: [JML, JUnit, testing, components, BIT, built-in test]
+
+- type: inproceedings
+  id: oopsla05a
+  date: 20051000
+  title: 'Adding software testing to programming assignments'
+  citation: >
+    Stephen H. Edwards.  Adding software testing to programming
+    assignments.  Tutorial at the 20th Annual ACM SIGPLAN Conference on
+    Object Oriented Programming, Systems, Languages, and Applications,
+    October 2005.
+  abstract: >
+    Software testing is a critical skill for practitioners, but it is
+    rarely given appropriate coverage in undergraduate curricula.  If
+    we want to change the culture of how students program, they should
+    practice basic testing skills on every assignment all the time. 
+    This tutorial provides a practical introduction to incorporating
+    software testing activities as a regular part of programming
+    assignments.  While this can be done for many languages, the focus
+    here is on leveraging XUnit-style tools and test-first coding
+    techniques to infuse software testing throughout courses that teach
+    object-oriented programming concepts.  Empirical evidence suggests
+    that, when assignments are transformed this way, students produce
+    higher-quality results (averaging 28% fewer bugs/KSLOC) and are
+    more likely to turn assignments in on time.  Further, test-first
+    strategies preempt “big bang” integration disasters, and
+    students report greater confidence in their own work. </p><p> This
+    tutorial presents five different models for how one can incorporate
+    testing into assignments, provides live programming demonstrations
+    of the techniques, and discusses the corresponding advantages and
+    disadvantages of each.  Approaches to assessment—using testing to
+    assess student code, assessing tests that students write, and
+    automated grading—are all discussed.  Advice for writing
+    “testable” assignments is given.  Hands-on examples for
+    participants are also provided. 
+  tags: [testing, assignments, JUnit, BlueJ, Eclipse, Java, object-oriented, unit testing, framework, cs education, Web-CAT, test-driven development, TDD, test-first coding, auto-grading, OOPSLA]
+
+- type: unpublished
+  id: sigcse06b
+  date: 20060302
+  title: 'Toward a common automated grading platform'
+  citation: >
+    Stephen H. Edwards and William Pugh.  Toward a common automated
+    grading platform.  Birds-of-a-Feather session at the
+    37<sup>th</sup> SIGCSE Technical Symposium on Computer Science
+    Education, March 2, 2006.
+  abstract: >
+    While there is a long history in our field of “home grown”
+    automated grading systems at various institutions, there is
+    relatively little sharing of tools or techniques among
+    universities.  A number of significant obstacles exist to using
+    home grown tools at other institutions, including differences
+    in:</p> <ul> <li><p>Authentication mechanisms and integration with
+    campus-specific single-sign-on services.</p></li> <li><p>Workflow
+    practices in collecting, marking up, and returning
+    assignments.</p></li> <li><p>Execution platform(s)
+    supported.</p></li> <li><p>Submission mechanism(s)
+    supported.</p></li> <li><p>Integration with courseware support
+    tools and software development tools.</p></li> <li><p>Alternate
+    scoring or feedback approaches.</p></li> <li><p>Programming
+    languages used by students.</p></li> <li><p>Architectural
+    modularity and flexibility.</p></li> <li><p>and more … </p></li>
+    </ul> <p> The purpose of this BOF is to bring together parties
+    interested in identifying the major roadblocks to fielding a
+    generally-adoptable automated grading platform that is flexible
+    enough for use across a wide variety of institutions.  A platform
+    providing a modular, plug-in-based architecture could provide a
+    common base for advancing the interests of many working in this
+    area, as well as a medium for infusing best practices across many
+    institutions.  In addition to brainstorming the obstacles, the
+    group will also propose and discuss potential solutions. 
+  tags: [auto-grading, Web-CAT, Marmoset, cs education, SIGCSE]
+
+- type: unpublished
+  id: bluej06b
+  date: 20060301
+  title: 'Programming assignment ideas from CS 1705'
+  citation: >
+    Stephen H. Edwards.  <a
+    href="http://www.bluej.org/bluej-day/material/VT-assignment-ideas.pdf">Programming
+    assignment ideas from CS 1705</a>. Poster presented
+    at the First BlueJ Day, held in conjunction with the
+    37<sup>th</sup> SIGCSE Technical Symposium on Computer Science
+    Education, March 1, 2006.
+  tags: [assignment, Java, CS1, Karel J Robot, Web-CAT, BlueJ]
+
+- type: unpublished
+  id: bluej06a
+  date: 20060301
+  title: "Experiences using BlueJ's submitter with an automated grader"
+  citation: >
+    Stephen H. Edwards.  <a
+    href="http://www.bluej.org/bluej-day/material/Experiences-with-the-Submitter.pdf">Experiences
+    using BlueJ's submitter with an
+    automated grader</a>.  Invited talk in the User Experiences
+    session, presented at the First BlueJ Day, held in conjunction with
+    the 37<sup>th</sup> SIGCSE Technical Symposium on Computer Science
+    Education, March 1, 2006.
+  tags: [BlueJ, auto-grading, CS1, Web-CAT, test-first coding, test-driven development, TDD]
+
+- type: inproceedings
+  id: sigcse06c
+  date: 20060302
+  title: 'Adding software testing to programming assignments'
+  citation: >
+    Stephen H. Edwards.  <a
+    href="http://web-cat.org/sigcse06-workshop/">Adding software
+    testing to programming assignments</a>.  Workshop at the
+    37<sup>th</sup> SIGCSE Technical Symposium on Computer Science
+    Education, March 2006.
+  abstract: >
+    This workshop provides a practical introduction to how one can
+    incorporate software testing activities as a regular part of
+    programming assignments, supported by live demonstrations.  It
+    presents five different models for how one can incorporate testing
+    into assignments, provides examples of each technique, and
+    discusses the corresponding advantages and disadvantages. 
+    Approaches to assessment—using testing to assess student code,
+    assessing tests that students write, and automated grading—are
+    all discussed.  Advice for writing “testable” assignments is
+    given.  Participant discussions are encouraged. 
+  tags: [testing, assignments, JUnit, BlueJ, Eclipse, Java, object-oriented, unit testing, framework, cs education, Web-CAT, test-driven development, TDD, test-first coding, auto-grading, SIGCSE]
+
+- type: inproceedings
+  id: EERA06
+  date: 20060222
+  title: 'An online peer review system'
+  citation: >
+    Aaron Powell, Scott Turner, Manas Tungare, Manuel A.
+    P&eacute;rez-Qui&ntilde;ones, and Stephen H. Edwards.. An online
+    peer review system. In <i>Eastern Educational Research Association
+    2006 Annual Conference</a>, Hilton Head, SC, Feb. 22-25, 2006.
+  tags: [on-line, peer review, Moodle]
+
+- type: inproceedings
+  id: ICEE06
+  date: 20060600
+  title: 'Graphing performance on programming assignments to improve student understanding'
+  citation: >
+    Stephen H. Edwards, Manuel A. P&eacute;rez-Qui&ntilde;ones, Matthew
+    Phillips, and Johnny RajKumar. <a
+    href="http://fie.engrng.pitt.edu/icee2006/papers/3395.pdf">Graphing
+    performance on programming assignments to improve student
+    understanding</a>.  In <i>Proceedings of the 9th iNEER
+    International Conference on Engineering Education</i>, 2006.
+  abstract: >
+    Within computer science education, automated grading systems are
+    used by many institutions. This paper summarizes an investigation
+    into how the data collected by an electronic submission system can
+    be used to aid students and instructors. Rather than simply
+    providing feedback on a single submission, a grading system can
+    give a student summary information about individual improvement
+    over time, as well as where the student stands with respect to his
+    or her peers. We explore graphical presentations—in the form of
+    bar charts, histograms, and line charts—of a student’s personal
+    progress over time, as well as the student’s current performance
+    in relationship to the remainder of the class body. Particular
+    attention is paid to how graphs can help the student understand
+    likely future outcomes on assignments based on current effort
+    expended, and on "calibrating" one’s own understanding of how the
+    rest of the class is performing.
+  tags: [cs education, auto-grading, graph visualization, course management system, Web-CAT, Moodle]
+
+- type: inproceedings
+  id: SIGCSE07a
+  date: 20070300
+  title: 'Algorithm visualization: A report on the state of the field'
+  citation: >
+    Clifford A. Shaffer, Matthew Cooper, and Stephen H. Edwards. <a
+    href="http://doi.acm.org/10.1145/1227310.1227366">Algorithm
+    visualization: A report on the state of the field</a>. In
+    <i>Proceedings of the 38<sup>th</sup> SIGCSE Technical Symposium on
+    Computer Science Education</i>. ACM Press, New York, NY, 2007, pp.
+    150-154.
+  abstract: >
+    We present our findings on the state of the field of algorithm
+    visualization, based on extensive search and analysis of links to
+    hundreds of visualizations. We seek to answer questions such as how
+    content is distributed among topics, who created algorithm
+    visualizations and when, the overall quality of available
+    visualizations, and how visualizations are disseminated. We have
+    built a wiki that currently catalogs over 350 algorithm
+    visualizations, contains the beginnings of an annotated
+    bibliography on algorithm visualization literature, and provides
+    information about researchers and projects. Unfortunately, we found
+    that most existing algorithm visualizations are of low quality, and
+    the content coverage is skewed heavily toward easier topics. There
+    are no effective repositories or organized collections of algorithm
+    visualizations currently available. Thus, the field appears in need
+    of improvement in dissemination of materials, informing potential
+    developers about what is needed, and propagating known best
+    practices for creating new visualizations.
+  tags: [algorithm visualization, data structures, algorithm animation, algoviz, cs education, SIGCSE]
+
+- type: inproceedings
+  id: eista07a
+  date: 20070700
+  title: 'Helping students test programs that have graphical user interfaces'
+  citation: >
+    Matthew Thornton, Stephen H. Edwards, and Roy P. Tan.  <a
+    href="http://people.cs.vt.edu/~edwards/downloads/Thornton-Edwards-Tan-EISTA07.pdf">Helping students
+    test programs that have graphical user interfaces</a>.  In
+    <i>Proceedings of the International Conference on Education and
+    Information Systems: Technologies and Applications</i> (EISTA'07),
+    July, 2007.
+  abstract: >
+    Within computer science education, many educators are incorporating
+    software testing activities into regular programming assignments. 
+    Tools like JUnit and its relatives make software testing tasks much
+    easier, bringing them into the realm of even introductory students.
+     At the same time, many introductory programming courses are now
+    including graphical interfaces as part of student assignments to
+    improve student interest and engagement.  Unfortunately, writing
+    software tests for programs that have significant graphical user
+    interfaces is beyond the skills of typical students (and many
+    educators).  This paper presents initial work at combining
+    educationally oriented and open-source tools to create an
+    infrastructure for writing tests for Java programs that have
+    graphical user in-terfaces.  Critically, these tools are intended
+    to be appropriate for introductory (CS1/CS2) student use, and to
+    dovetail with current teaching approaches that incorporate software
+    testing in programming assign-ments.  We also include in our
+    findings our proposed approach to evaluating our techniques.
+  tags: [testing, GUI, cs education, test-driven development, TDD, test-first coding, objectdraw, JUnit, Web-CAT]
+
+- type: inproceedings
+  id: eista07b
+  date: 20070700
+  title: 'Mining the data in programming assignments for educational research'
+  citation: >
+    Stephen H. Edwards and Vinh Ly.  <a
+    href="http://people.cs.vt.edu/~edwards/downloads/Edwards-Ly-EISTA07.pdf">Mining the data in
+    programming assignments for educational research</a>.  In
+    <i>Proceedings of the International Conference on Education and
+    Information Systems: Technologies and Applications</i> (EISTA'07),
+    July, 2007.
+  abstract: >
+    In computer science and information technology education,
+    instructors often use electronic tools to collect, compile,
+    execute, and analyze student assignments.  The assessment results
+    produced by these tools provide a large body of data about student
+    work habits, the quality of student work, and the areas where
+    students are struggling.  This paper reports on efforts to extract
+    significantly more useful data from electronically collected
+    as-signments in computer programming courses.  The work is being
+    performed in the context of the most widely used open-source
+    automated grading system: Web-CAT.  We have enhanced a Web-CAT
+    plug-in to allow collection of data about the frequency and types
+    of run-time errors produced by students, the frequency and types of
+    test case failures that occur during grading, basic code size
+    metrics, test coverage metrics, and more.  This information can be
+    combined with the results of “by-hand” grading activities to
+    form a large, rich data corpus characterizing student behavior over
+    many assignments in one course, over many courses, and even across
+    semesters.  The data collected in this way is a valuable resource
+    for researchers in computer science education.
+  tags: [data mining, cs education, auto-grading, Web-CAT, CxxTest]
+
+- type: inproceedings
+  id: sigcse08a
+  date: 20080300
+  title: 'Supporting student-written tests of GUI programs'
+  citation: >
+    Matthew Thornton, Stephen H. Edwards, Roy P. Tan, and Manuel A.
+    P&eacute;rez-Qui&ntilde;ones. <a
+    href="http://doi.acm.org/10.1145/1352135.1352316">Supporting
+    student-written tests of GUI programs</a>.  In <i>Proceedings of
+    the 39<sup>th</sup> SIGCSE Technical Symposium on Computer Science
+    Education</i>. ACM Press, New York, NY, 2008, pp. 537-541.
+  abstract: >
+    Tools like JUnit and its relatives are making software testing
+    reachable even for introductory students.  At the same time,
+    however, many introductory computer sciences courses use graphical
+    interfaces as an “attention grabber” for students and as a
+    metaphor for teaching object-oriented programming.  Unfortunately,
+    developing software tests for programs that have significant
+    graphical user interfaces is beyond the abilities of typical
+    students (and, for that matter, many educators).  This paper
+    describes a framework for combining readily available tools to
+    create an infrastructure for writing tests for Java programs that
+    have graphical user interfaces.  These tests are level-appropriate
+    for introductory students and fit in with current approaches in
+    computer science education that incorporate testing in programming
+    assignments.  An analysis of data collected during actual student
+    use of the framework in a CS1 course is presented.
+  tags: [testing, GUI, Web-CAT, auto-grading, test-driven development, TDD, test-first coding, JUnit, unit testing, objectdraw, Java, cs education, SIGCSE]
+
+- type: inproceedings
+  id: sigcse08b
+  date: 20080300
+  title: 'Misunderstandings about object-oriented design: experiences using code reviews'
+  citation: >
+    Scott A. Turner, Ricardo Quintana-Castillo, Manuel A.
+    P&eacute;rez-Qui&ntilde;ones, and Stephen H. Edwards. <a
+    href="http://doi.acm.org/10.1145/1352135.1352169">Misunderstandings
+    about object-oriented design: experiences using code reviews</a>. 
+    In <i>Proceedings of the 39<sup>th</sup> SIGCSE Technical Symposium
+    on Computer Science Education</i>. ACM Press, New York, NY, 2008,
+    pp. 97-101.
+  abstract: >
+    In this paper we present our experience using code reviews in a CS2
+    course. In particular, we highlight a series of misunderstandings
+    of object-oriented (OO) concepts we observed as a by-product of the
+    code review exercise. In our activity, we asked students to review
+    code, rate it using a rubric, and to justify their explanation. The
+    students were asked to review two solutions to a project from a
+    previous year. Through examples of their explanations, we found
+    that students had a number of basic misunderstandings of
+    object-oriented principles. In this paper, we present our
+    observations of the misunderstandings, and present some general
+    observations of how code reviews can be used as an assessment tool
+    in CS2.
+  tags: [misunderstanding, object-oriented, design, code review, code reading, object-oriented, cs education, SIGCSE]
+
+- type: article
+  id: jcsc0701
+  date: 20070100
+  title: 'Effect of interface style in peer review comments for UML designs'
+  citation: >
+    Scott A. Turner, Manuel A. P&eacute;rez-Qui&ntilde;ones, and
+    Stephen H. Edwards.  <a
+    href="http://portal.acm.org/citation.cfm?id=1181849.1181890&coll=Portal&dl=ACM">Effect
+    of interface style in peer review comments for
+    UML designs</a>.  <i>Journal of Computing Sciences in Colleges</i>,
+    22(3): 214-220, January 2007.
+  abstract: >
+    This paper presents our evaluation of using a Tablet-PC to provide
+    peer-review comments in the first year Computer Science course. Our
+    exploration consisted of an evaluation of how students write
+    comments on other students' assignments using three different
+    methods: pen and paper, a Tablet-PC, and a desktop computer. Our
+    ultimate goal is to explore the effect that interface style (Tablet
+    vs. Desktop) has on the quality and quantity of the comments
+    provided.
+  tags: [peer review, UML, design, object-oriented, tablet PC, cs education, human factors]
+
+- type: article
+  id: jcsc0702
+  date: 20070100
+  title: 'Experiences using test-driven development with an automated grader'
+  citation: >
+    Stephen H. Edwards and Manuel A. P&eacute;rez-Qui&ntilde;ones.  <a
+    href="http://portal.acm.org/citation.cfm?id=1181849.1181855&coll=Portal&dl=ACM">Experiences
+    using test-driven development with an
+    automated grader</a>.  <i>Journal of Computing Sciences in
+    Colleges</i>, 22(3): 44-50, January 2007.
+  abstract: >
+    Including software testing practices in programming assignments has
+    moved from a novel idea to accepted practice in recent years.
+    Further, testing frameworks have spurred renewed interest in new
+    approaches to automated grading, with some systems specifically
+    aiming to give feedback on software testing skills. As more
+    educators consider incorporating testing techniques in their own
+    courses, lessons learned from using testing in the classroom as
+    well as from using automated grading systems become more valuable.
+    This paper summarizes experiences in using software testing in CS1-
+    and CS2-level courses over the past three years. Among these
+    experiences, this paper focuses on student perceptions of automated
+    grading tools and how they might be addressed, approaches to
+    designing project specifications, and strategies for providing
+    meaningful feedback to students that can help improve their
+    performance and reduce their frustration.
+  tags: [test-driven development, TDD, auto-grading, Web-CAT, test-first coding, testing, cs education]
+
+- type: article
+  id: jeric05
+  date: 20051200
+  title: 'minimUML: A minimalist approach to UML diagramming for early computer science education'
+  citation: >
+    Scott A. Turner, Manuel A. P&eacute;rez-Qui&ntilde;ones, and
+    Stephen H. Edwards.  <a
+    href="http://doi.acm.org/10.1145/1186639.1186640">minimUML: A
+    minimalist approach to UML diagramming for early computer science
+    education</a>. <i>Journal of Educational Resources in
+    Computing</i>, 5(4): 1-28, December 2005.
+  abstract: >
+    In introductory computer science courses, the Unified Modeling
+    Language (UML) is commonly used to teach basic object-oriented
+    design. However, there appears to be a lack of suitable software to
+    support this task. Many of the available programs that support UML
+    focus on developing code and not on enhancing learning. Programs
+    designed for educational use sometimes have poor interfaces or are
+    missing common and important features such as multiple selection
+    and undo/redo. Hence the need for software that is tailored to an
+    instructional environment and that has all the useful and needed
+    functionality for that specific task. This is the purpose of
+    minimUML. It provides a minimum amount of UML, just what is
+    commonly used in beginning programming classes, and a simple,
+    usable interface. In particular, minimUML is designed to support
+    abstract design while supplying features for exploratory learning
+    and error avoidance. It supports functionality that includes
+    multiple selection, undo/redo, flexible printing, cut and paste,
+    and drag and drop. In addition, it allows for the annotation of
+    diagrams, through text or free-form drawings, so students can
+    receive feedback on their work. minimUML was developed with the
+    goals of supporting ease of use, of supporting novice students, and
+    of requiring no prior training for its use. This article presents
+    the rationale behind the minimUML design, a description of the
+    tool, and the results of usability evaluations and student feedback
+    on the use of the tool.
+  tags: [minimUML, UML, cs education, design, human factors, UML, diagramming, ACM TOCE]
+
+- type: inproceedings
+  id: SIGCSE07b
+  date: 20070300
+  title: 'Automatically grading programming assignments with Web-CAT'
+  citation: >
+    Stephen H. Edwards.  <a
+    href="http://web-cat.org/WCWiki/Sigcse2007Workshop">Automatically
+    grading programming assignments with Web-CAT</a>.  Workshop at the
+    38<sup>th</sup> SIGCSE Technical Symposium on Computer Science
+    Education, March 2007.
+  abstract: >
+    This workshop introduces participants to using <a
+    href="http://web-cat.org/WCWiki/WhatIsWebCat">Web-CAT</a>, an
+    open-source automated grading system. Web-CAT is customizable and
+    extensible, allowing it to support a wide variety of programming
+    languages and assessment strategies. Web-CAT is most well-known as
+    the system that "grades students on how well they test their own
+    code," with experimental evidence that it offers greater learning
+    benefits than more traditional output-comparison grading.
+    Participants will practice hands-on how to prepare reference tests,
+    set up assignments, manage multiple sections, and allow graders to
+    manually grade for design. Bring your own Java or C++ assignment
+    (small, with sample solution, and test cases if you have them) to
+    work through. Go home ready to start using it in your own
+    classes!</p> <p>The entire workshop is now available as a <a
+    href="http://web-cat.org/WCWiki/Sigcse2007Workshop">self-paced
+    on-line workshop</a> for new Web-CAT users.
+  tags: [auto-grading, assignments, Web-CAT, JUnit, BlueJ, Eclipse, Java, object-oriented, unit testing, framework, cs education, test-driven development, TDD, test-first coding, SIGCSE]
+
+- type: inproceedings
+  id: sigcse08c
+  date: 20080312
+  title: 'CATSpace: Sharing, discovering, and improving laboratory materials through a social network'
+  citation: >
+    Ricardo Quintana-Castillo, Stephen Edwards, and Manuel
+    P&eacute;rez-Qui&ntilde;ones. <a
+    href="http://people.cs.vt.edu/~edwards/downloads/CATspace-SIGCSE08.pdf">CATspace: Sharing,
+    discovering, and improving laboratory materials through a social
+    network</a>.  Poster presented at the 39th SIGCSE Technical
+    Symposium on Computer Science Education. Portland, OR, USA, March
+    12-15, 2008.
+  abstract: >
+    We present CATSpace, a social networking web site that enables the
+    dissemination, evolution, and discovery of laboratory materials for
+    computer science education. Our objective is to investigate the
+    impact that a social network for instructors and students has on
+    the improvement of these types of documents. CATSpace promotes the
+    refinement of materials through open, document-specific discussions
+    and versioning. It also empowers students to affect the evolution
+    of materials by allowing them to provide constructive feedback
+    based on their experiences. Its tied integration with Web-CAT, a
+    widely-used automated grading tool, promises to provide a strong
+    user base for community growth and future research.
+  tags: [CATSpace, sharing, labs, social network, assignments, archive, repository, Web-CAT, cs education, SIGCSE]
+
+- type: inproceedings
+  id: sigcse08d
+  date: 20080312
+  title: 'Going beyond algorithm visualization to algorithm exploration'
+  citation: >
+    Clifford A. Shaffer, Mayank Agarwal, Arpit Kumar, and Stephen H.
+    Edwards.  Going beyond algorithm visualization to algorithm
+    exploration.  Poster presented at the 39th SIGCSE Technical
+    Symposium on Computer Science Education. Portland, OR, USA, March
+    12-15, 2008.
+  abstract: >
+    While data structure and algorithm visualizations (AVs) have proved
+    valuable to the CS education community, even the better AVs today
+    are limited to instruction in the mechanics of how a given data
+    structure or algorithm behaves. We discuss the value of going
+    beyond the scope of such AVs to provide students with an
+    opportunity to explore the relative merits of various alternatives.
+    We call such artifacts “algorithm explorations.” As an
+    illustration of what an algorithm exploration might look like, we
+    describe a hashing tutorial that we have implemented.
+  tags: [algorithm visualization, algorithm exploration, algoviz, cs education, SIGCSE]
+
+- type: inproceedings
+  id: sigcse08e
+  date: 20080312
+  title: 'Dereferee: Instrumenting C++ pointers with meaningful runtime diagnostics'
+  citation: >
+    Anthony Allevato and Stephen Edwards.  <a
+    href="http://people.cs.vt.edu/~edwards/downloads/dereferee-poster.pdf">Dereferee: Instrumenting C++
+    pointers with meaningful runtime diagnostics</a>.  Poster presented
+    at the 39th SIGCSE Technical Symposium on Computer Science
+    Education. Portland, OR, USA, March 12-15, 2008.
+  abstract: >
+    Proper memory management and pointer usage often prove to be the
+    most difficult concepts for students learning C++ to grasp.
+    Compounding this problem is the fact that the compilers and runtime
+    environments traditionally used to introduce these concepts leave
+    much to be desired with regard to generating meaningful diagnostics
+    to assist students in tracking down and fixing memory-related
+    logical errors. To alleviate this, we have developed Dereferee, an
+    advanced yet thin wrapper around C++ pointers that greatly
+    increases the quality of these runtime diagnostics, but with
+    minimal intrusion into students’ code and the learning process.
+  tags: [dereferee, C++, pointers, runtime diagnostics, assertion checking, memory management, heap corruption, dangling reference, memory leak, wrappers, checked pointer, Web-CAT, Eclipse, Visual Studio, IDE, cs education, SIGCSE]
+
+- type: unpublished
+  id: sigcse08f
+  date: 20080312
+  title: 'Algorithm visualization'
+  citation: >
+    Clifford A. Shaffer and Stephen H. Edwards. Algorithm
+    visualization.  Birds-of-a-feather session at the 39th SIGCSE
+    Technical Symposium on Computer Science Education. Portland, OR,
+    USA, March 12-15, 2008.
+  abstract: >
+    Algorithm visualizations (AVs) and data structure visualizations
+    have long held great promise for improving CS Education. While some
+    AVs have proved to be pedagogically effective, many have not. Thus,
+    developing effective AVs is a challenge. We will discuss current
+    trends in AV research, and exchange information about who has
+    active projects going and where good AVs can be found. We will
+    exchange experiences (good and bad) with their use in the
+    classroom. We will discuss mechanisms to encourage community-wide
+    participation in, and ways to improve, the AlgoViz Wiki (<a
+    href="http://algoviz.cs.vt.edu">http://algoviz.cs.vt.edu</a>).
+  tags: [algorithm visualization, data structures, algorithm animation, algoviz, cs education, SIGCSE]
+
+- type: unpublished
+  id: sigcse08g
+  date: 20080312
+  title: 'Web-CAT user group'
+  citation: >
+    Stephen H. Edwards and Manuel A. P&eacute;rez-Qui&ntilde;ones.  <a
+    href="http://people.cs.vt.edu/~edwards/downloads/Web-CAT-user-group-SIGCSE08.pdf">Web-CAT user
+    group</a>.  Birds-of-a-feather session at the 39th SIGCSE Technical
+    Symposium on Computer Science Education. Portland, OR, USA, March
+    12-15, 2008.
+  abstract: >
+    Web-CAT is the most widely used open-source automated grad-ing
+    system and winner of the 2006 Premier Award, recognizing
+    high-quality, non-commercial courseware for engineering education. 
+    Web-CAT is customizable and extensible.  It supports a wide variety
+    of programming languages and assessment strategies.  Web-CAT is
+    famous for “grading students on how well they test their own
+    code,” but it can do much more.  This BOF will allow existing
+    users, new adopters, and those trying to choose an automated grader
+    to meet, share experiences, and talk about what works and what does
+    not.  Information on getting started quickly with Web-CAT will also
+    be provided.
+  tags: [Web-CAT, auto-grading, test-driven development, TDD, test-first coding, cs education, SIGCSE]
+
+- type: unpublished
+  id: sigcse08h
+  date: 20080312
+  title: 'Using Web 2.0 technologies in your computer science classes'
+  citation: >
+    Manuel A. P&eacute;rez-Qui&ntilde;ones, Stephen Edwards, Edward A.
+    Fox, Manas Tungare, and Lillian Cassel. Using Web 2.0 technologies
+    in your computer science classes. Workshop at the 39th SIGCSE
+    Technical Symposium on Computer Science Education. Portland, OR,
+    USA, March 12-15, 2008.
+  tags: [web design, social networking, ZK, AJAX, CS1, cs education, SIGCSE]
+
+- type: unpublished
+  id: WTST08b
+  date: 20080118
+  title: 'Best practices for on-line delivery'
+  citation: >
+    Stephen H. Edwards.  <a
+    href="http://people.cs.vt.edu/~edwards/downloads/Best-practices-for-on-line-delivery-WTST08.pdf">Bes
+    t practices for on-line delivery</a>.  Presented at the
+    7<sup>th</sup> Workshop on Teaching Software Testing, Melbourne,
+    FL, January 18-20, 2008.
+  tags: [on-line, distance learning, cs education, design]
+
+- type: unpublished
+  id: WTST08a
+  date: 20080118
+  title: 'Lessons learned using automated grading tools to teach software testing'
+  citation: >
+    Stephen H. Edwards.  <a href="http://people.cs.vt.edu/~edwards/downloads/Web-CAT-WTST08.pdf">Lessons
+    learned using automated grading tools to teach software
+    testing</a>.  Presented at the 7<sup>th</sup> Workshop on Teaching
+    Software Testing, Melbourne, FL, January 18-20, 2008.
+  tags: [auto-grading, testing, Web-CAT, test-driven development, TDD, test-first coding, cs education]
+
+- type: article
+  id: state-of-av
+  date: 20100800
+  title: 'Algorithm visualization: The state of the field'
+  citation: >
+    C.A. Shaffer, M.L. Cooper, A.J.D. Alon, M. Akbar, M. Stewart, S.
+    Ponce, and S.H. Edwards. Algorithm visualization: The state of the
+    field. <i>ACM Transactions on Computing Education</i>, 10(3),
+    Article 9 (August 2010), 22 pp.
+  abstract: >
+    We present findings regarding the state of the field of Algorithm
+    Visualization (AV) based on our analysis of a collection of over
+    500 AVs. We examine how AVs are distributed among topics, who
+    created them and when, their overall quality, and how they are
+    disseminated. There does exist a cadre of good AVs and active
+    developers. Unfortunately, we found that many AVs are of low
+    quality, and coverage is skewed toward a few easier topics. This
+    can make it hard for instructors to locate what they need. There
+    are no effective repositories of AVs currently available, which
+    puts many AVs at risk for being lost to the community over time.
+    Thus, the field appears in need of improvement in disseminating
+    materials, propagating known best practices, and informing
+    developers about topic coverage. These concerns could be mitigated
+    by building community and improving communication among AV users
+    and developers.
+  tags: [algorithm visualization, algorithm animation, algoviz, community, cs education, data structure, design, FOSS, ACM TOCE]
+
+- type: article
+  id: assignment-format
+  date: 20081100
+  title: 'Developing a common format for sharing programming assignments'
+  citation: >
+    S.H. Edwards, J. Börstler, L.N. Cassel, M.S. Hall, and J.
+    Hollingsworth. Developing a common format for sharing programming
+    assignments. <i>SIGCSE Bulletin</i>, 40(4):167– 182, Nov. 2008.
+  abstract: >
+    Computer science educators spend a lot of effort designing
+    programming assignments, and many are willing to share the results
+    of this investment. However, sharing of programming assignments
+    occurs primarily in an ad hoc manner through informal channels.
+    There are no widely used mechanisms that support instructors in
+    finding and sharing such resources. Often, the additional work
+    required to prepare and self-publish assignment resources in a way
+    that others can then adapt or reuse is a significant inhibitor.
+    Also, other instructors may have to spend an inordinate amount of
+    time and effort to reshape a potential assignment into something
+    that can be used in their own courses. This working group report
+    proposes a common format for packaging assignments for sharing.
+    This format is easy for instructors to create (requiring no
+    specialized tools), is extensible and flexible enough to handle
+    assignments written for any programming language at any level of
+    proficiency, supports appropriate metadata, and is easily
+    manipulated by software tools. As more and more instructors use
+    automated grading tools to process student submissions, it is our
+    hope that such an interchange format can lead to a community
+    practice of sharing resources in a way that overcomes existing
+    barriers to such reuse.
+  tags: [format, sharing, assignments, Web-CAT, auto-grading, cs education, interchange, reuse, standardization, ITiCSE]
+
+- type: inproceedings
+  id: gimmick
+  date: 20120300
+  title: "Running students' software tests against each others' code: New life for an old \"gimmick\""
+  citation: >
+    S.H. Edwards, Z. Shams, M. Cogswell, and R.C. Senkbeil. Running
+    students’ software tests against each others’ code: New life
+    for an old "gimmick." In <i>Proceedings of the 43rd ACM Technical
+    Symposium on Computer Science Education (SIGCSE ’12)</i>, ACM,
+    New York, NY, 2012, pp. 221-226.
+  abstract: >
+    At SIGCSE 2002, Michael Goldwasser suggested a strategy for adding
+    software testing practices to programming courses by requiring
+    students to turn in tests along with their solutions, and then
+    running every student's tests against every other student's
+    program. This approach provides a much more robust environment for
+    assessing the quality of student-written tests, and also provides
+    more thorough testing of student solutions. Although software
+    testing is included as a regular part of many more programming
+    courses today, the all-pairs model of executing tests is still a
+    rarity. This is because student-written tests, such as JUnit tests
+    written for Java programs, are now more commonly written in the
+    form of program code themselves, and they may depend on virtually
+    any aspect of their author's own solution. These dependencies may
+    keep one student's tests from even compiling against another
+    student's program. This paper discusses the problem and presents a
+    novel solution for Java that uses bytecode rewriting to transform a
+    student's tests into a form that uses reflection to run against any
+    other solution, regardless of any compile-time dependencies that
+    may have been present in the original tests. Results of applying
+    this technique to two assignments, encompassing 147 student
+    programs and 240,158 individual test case runs, shows the
+    feasibility of the approach and provides some insight into the
+    quality of both student tests and student programs. An analysis of
+    these results is presented.
+  tags: [testing, all-pairs, gimmick, automated assessment, bytecode transformation, cs education, design, reflection, test coverage, test-driven development, TDD, test-first coding, verification, Web-CAT, SIGCSE]
+
+- type: inproceedings
+  id: RoboLIFT
+  date: 20120300
+  title: 'RoboLIFT: Engaging CS2 students with testable, automatically evaluated Android applications'
+  citation: >
+    A. Allevato and S.H. Edwards. RoboLIFT: Engaging CS2 students with
+    testable, automatically evaluated Android applications. In
+    <i>Proceedings of the 43rd ACM Technical Symposium on Computer
+    Science Education (SIGCSE ’12)</i>, ACM, New York, NY, 2012, pp.
+    547-552.
+  abstract: >
+    Making computer science assignments interesting and relevant is a
+    constant challenge for instructors of introductory courses. Android
+    has become popular in these courses to take advantage of the
+    increasing popularity of smartphones and mobile "apps." This has
+    been shown to increase student engagement but it is only the first
+    step, and we must continue to provide support for teaching
+    methodologies that we have used in the past, such as test-driven
+    development and automated assessment. We have developed RoboLIFT, a
+    library that makes unit testing of Android applications
+    approachable for students. Furthermore, by supporting existing
+    automated grading techniques, we are able to sustain large student
+    enrollments, and we evaluate the effects that using Android has had
+    on student performance.
+  tags: [RoboLIFT, LIFT, CS2, testing, Android, cs education, design, GUI, Java, JUnit, mobile development, smartphone, tablet, TDD, test-driven development, test-first coding, Web-CAT, SIGCSE]
+
+- type: inproceedings
+  id: FECS11-CloudSpace
+  date: 20110700
+  title: 'Experiences evaluating student attitudes in an introductory programming course'
+  citation: >
+    S.H. Edwards, G. Back, and M. Woods. Experiences evaluating student
+    attitudes in an introductory programming course. In <i>Proceedings
+    of the 2011 International Conference on Frontiers in Education:
+    Computer Science and Computer Engineering</i>, CSREA Press, 2011,
+    pp. 477–482.
+  abstract: >
+    This experience report describes using a validated survey
+    instrument to measure changes in student attitudes toward computing
+    across a CS1 course. The choice of the survey instrument is
+    described, with links to online resources for several existing
+    instruments. The setup of a within-subjects design using pre- and
+    post-tests at each end of a semester-long programming course allows
+    changes in attitudes to be assessed. Results from analyzing 197
+    surveys received over a two-semester period are presented. Most
+    attitude measures were quite high. The only significant change was
+    an increase in the perceived importance of computing among the
+    students. However, student aversion scores were a significant
+    predictor of student success. Lessons learned are presented along
+    with future plans.
+  tags: [attitudes, survey, measurement, perceptions, opinions, anxiety, enthusiasm, Computer Attitudes Survey, CS1, cs education, CloudSpace]
+
+- type: inproceedings
+  id: ExceptionDoctor
+  date: 20110700
+  title: 'Improving exception messages with ExceptionDoctor'
+  citation: >
+    M. Woods and S.H. Edwards. Improving exception messages with
+    ExceptionDoctor. In <i>Proceedings of the 2011 International
+    Conference on Frontiers in Education: Computer Science and Computer
+    Engineering</i>, CSREA Press, 2011, pp. 466–471.
+  abstract: >
+    Beginning programmers often have difficulty interpreting exceptions
+    and using the associated messages to pinpoint the cause of
+    incorrect program behavior. When an interactive development
+    environment (IDE) presents a novice developer with a runtime time
+    exception, it generally provides with a stack trace and a limited,
+    cryptic exception message that is hard for a beginner to interpret.
+    This paper describes ExceptionDoctor, a Java utility that solves
+    this problem. ExceptionDoctor intercepts exceptions thrown by
+    student code and improves the embedded exception messages to
+    provide level-appropriate descriptions. ExceptionDoctor also
+    examines the source code that produced the exception (if available)
+    in order to describe the immediate cause of the exception in
+    student-level terms.
+  tags: [exceptions, exception messages, ExceptionDoctor, assignment, human factors, Java, run-time error, exception handler, explanation, diagnosis, debugging, Backstop, cs education, testing, diagnostics, object-oriented, errors, stack trace]
+
+- type: inproceedings
+  id: sigcse11-LIFT
+  date: 20110300
+  title: 'LIFT: taking GUI unit testing to new heights'
+  citation: >
+    J. Snyder, S.H. Edwards, and M.A. P&eacute;rez-Qui&ntilde;ones.
+    LIFT: taking GUI unit testing to new heights. In <i>Proceedings of
+    the 42nd ACM Technical Symposium on Computer Science Education
+    (SIGCSE ’11)</i>, ACM, New York, NY, 2011, pp. 643–648.
+  abstract: >
+    The Library for Interface Testing (LIFT) supports writing unit
+    tests for Java applications with graphical user interfaces (GUIs).
+    Current frameworks for GUI testing provide the necessary tools, but
+    are complicated and difficult to use for beginners, often requiring
+    a significant amount of time to learn. LIFT takes the approach that
+    unit testing GUIs should be no different than testing any other
+    type of code. By providing a set of frequently used filters for
+    identifying GUI components and a set of operations for acting on
+    those components, LIFT lets programmers quickly and easily test
+    their GUI applications.
+  tags: [LIFT, GUI, unit testing, cs education, Web-CAT, design, Swing, testing, Java, Java Task Force, JTF, JUnit, objectdraw, assignment, SIGCSE]
+
+- type: inproceedings
+  id: classroom-av
+  date: 20110300
+  title: 'Getting algorithm visualizations into the classroom'
+  citation: >
+    C.A. Shaffer, M. Akbar, A.J.D. Alon, M. Stewart, and S.H. Edwards.
+    Getting algorithm visualizations into the classroom. In
+    <i>Proceedings of the 42nd ACM Technical Symposium on Computer
+    Science Education (SIGCSE ’11)</i>, ACM, New York, NY, 2011, pp.
+    129–134.
+  abstract: >
+    Algorithm visualizations (AVs) are widely viewed as having the
+    potential for improving computer science education. However, the
+    rate of AV use and overall impact on education does not match the
+    positive interest in their use that instructors report. Surveys of
+    CS faculty show that impediments to successful use of AVs in the
+    classroom include difficulties in finding quality AVs on desired
+    topics, difficulties in adapting AVs to a given classroom setting,
+    and lack of knowledge on the best way to deploy AVs. This indicates
+    a need for better support for instructors, to get them past these
+    barriers. We seek to provide this support through an online
+    educational community that relies on a new model based less on the
+    "digital library" approach of information gained by going to a site
+    and searching. Instead, the focus is on community-added content
+    through members' discussions, reviews, and ratings of content
+    items. The AlgoViz community effort will better focus the future
+    direction of AV development and use.
+  tags: [algorithm visualization, active learning, algorithm animation, cs education, data structures, tutorial, on-line, community, algoviz, SIGCSE]
+
+- type: inproceedings
+  id: peerCS2
+  date: 20110300
+  title: 'Student attitudes and motivation for peer review in CS2'
+  citation: >
+    S. Turner, M.A. P&eacute;rez-Qui&ntilde;ones, S.H. Edwards, and J.
+    Chase. Student attitudes and motivation for peer review in CS2. In
+    <i>Proceedings of the 42nd ACM Technical Symposium on Computer
+    Science Education (SIGCSE ’11)</i>, ACM, New York, NY, 2011, pp.
+    347–352.
+  abstract: >
+    Computer science students need experience with essential concepts
+    and professional activities. Peer review is one way to meet these
+    goals. In this work, we examine the students' attitudes towards and
+    engagement in the peer review process, in early, object-oriented,
+    computer science courses. To do this, we used peer review exercises
+    in two CS2 classes at neighboring universities over the course of a
+    semester. Using three groups (one reviewing their peers, one
+    reviewing the instructor, and one completing small design or coding
+    exercises), we measured the students' attitudes, their perceptions
+    of their abilities, and how many of the reviews they completed. We
+    found moderately positive attitudes that generally increased over
+    time but were not significantly different between groups. We also
+    saw a lower completion rate for students reviewing peers than for
+    the other groups. The students' internal motivation, as measured by
+    their need for cognition, was not shown to be strongly related to
+    their attitudes nor to the number of assignments completed.
+    Overall, our results show a strong need for external motivation to
+    help engage students in peer reviews.
+  tags: [attitudes, motivation, peer review, CS2, cs education, code review, design, engagement, human factors, SIGCSE]
+
+- type: inproceedings
+  id: ecdl10
+  date: 20100000
+  title: 'Ensemble: A distributed portal for the distributed community of computing education'
+  citation: >
+    F.M. Shipman, L. Cassel, E. Fox, R. Furuta, L. Delcambre, P.
+    Brusilovsky, B.S. Car- penter, G. Hislop, S. Edwards, and D.D.
+    Garcia. Ensemble: A distributed portal for the distributed
+    community of computing education. In <i>Proceedings of the 14th
+    European Conference on Research and Advanced Technology for Digital
+    Libraries (ECDL’10)</i>, M. Lalmas, J. Jose, A. Rauber, F.
+    Sebastiani, and I. Frommholz (Eds.). Springer-Verlag, Berlin,
+    Heidelberg, 2010, pp. 506–509.
+  abstract: >
+    NSF's NSDL is composed of domain-oriented pathways. Ensemble is the
+    pathway for computing and supports the full range of computing
+    education communities, providing a base for the development of
+    programs that blend computing with other STEM areas (e.g.,
+    X-informatics and Computing + X), and producing digital library
+    innovations that can be propagated to other NSDL pathways.
+    Computing is a distributed community, including computer science,
+    computer engineering, software engineering, information science,
+    information systems, and information technology. Ensemble aims to
+    provide much needed support for the many distinct yet overlapping
+    educational programs in computing and their associated communities.
+    To do this, Ensemble takes the form of a distributed portal
+    providing access to the broad range of existing educational
+    resources while preserving the collections and their associated
+    curatorial processes. Ensemble encourages contribution, use, reuse,
+    review, and evaluation of educational materials at multiple levels
+    of granularity.
+  tags: [Ensemble, portal, community, cs education, digital library]
+
+- type: inproceedings
+  id: jcdl10
+  date: 20100000
+  title: 'Ensemble PDP-8: Eight principles for distributed portals'
+  citation: >
+    E.A. Fox, Y. Chen, M. Akbar, C.A. Shaffer, S.H. Edwards, P.
+    Brusilovsky, D. Garcia, L. Delcambre, F. Decker, D. Archer, R.
+    Furuta, F. Shipman, S. Carpenter, and L. Cassel. Ensemble PDP-8:
+    Eight principles for distributed portals. In <i>Proceedings of the
+    10th Annual Joint Conference on Digital Libraries (JCDL ’10)</i>,
+    ACM, New York, NY, USA, 2010, pp. 341–344.
+  abstract: >
+    Ensemble, the National Science Digital Library (NSDL) Pathways
+    project for Computing, builds upon a diverse group of prior NSDL,
+    DL-I, and other projects. Ensemble has shaped its activities
+    according to principles related to design, development,
+    implementation, and operation of distributed portals. Here we
+    articulate 8 key principles for distributed portals (PDPs). While
+    our focus is on education and pedagogy, we expect that our
+    experiences will generalize to other digital library application
+    domains. These principles inform, facilitate, and enhance the
+    Ensemble R&D and production activities. They allow us to provide a
+    broad range of services, from personalization to coordination
+    across communities. The eight PDPs can be briefly summarized as:
+    (1) Articulation across communities using ontologies. (2) Browsing
+    tailored to collections. (3) Integration across interfaces and
+    virtual environments. (4) Metadata interoperability and
+    integration. (5) Social graph construction using logging and
+    metrics. (6) Superimposed information and annotation integrated
+    across distributed systems. (7) Streamlined user access with IDs.
+    (8) Web 2.0 multiple social network system interconnection.
+  tags: [Ensemble, portal, design, digital library, human factors, ontology, standardization, cs education]
+
+- type: inproceedings
+  id: aseese10a
+  date: 20100418
+  title: 'Discovering patterns in student activity on programming assignments'
+  citation: >
+    A. Allevato and S.H. Edwards. Discovering patterns in student
+    activity on programming assignments. In <i>Proceedings of 2010 ASEE
+    Southeastern Section Annual Conference and Meeting</i>, April
+    18-20, 2010.
+  abstract: >
+    In our introductory computer programming courses, students submit
+    their code to an automated grading system for assessment, and they
+    are allowed to make an unlimited number of attempts before the
+    assignment is closed. This sequence of submissions can be viewed as
+    time series data where each attempt gives rise to one or more data
+    points, or events, that describe either an action that the student
+    has taken or a result of those actions. Frequent episode mining is
+    a data mining technique that lets us discover frequently occurring
+    patterns in time series data. We apply this technique with data
+    generated during one of our courses in order to better understand
+    the behaviors of our students during the time that they work on a
+    programming assignment. This paper presents an examination of the
+    trends that we discovered in our student data.
+  tags: [patterns, activity, assignments, cs education, data mining, Web-CAT]
+
+- type: inproceedings
+  id: aseese10d
+  date: 20100418
+  title: 'Source code plagiarism and the honor court'
+  citation: >
+    J.P. Van Metre and S.H. Edwards. Source code plagiarism and the
+    honor court. In <i>Proceedings of 2010 ASEE Southeastern Section
+    Annual Conference and Meeting</i>, April 18-20, 2010.
+  abstract: >
+    Unless there is a dramatic shift in the attitudes of society in the
+    next seven years, plagiarism will continue to be a problem in 2016,
+    as it is today, and as it has been.  At institutions where an honor
+    court enforces plagiarism rules, when students are accused of
+    plagiarism, a group of the students’ peers serve as a jury to
+    render a verdict on the charges.  The members of the honor court
+    are usually sourced from across the institution, which can present
+    difficulties when they are asked to hear cases of alleged source
+    code plagiarism, as many may have little to no computer programming
+    experience.  A survey of honor court members, the results of which
+    will be discussed in this paper, indicates that they tend to rely
+    on evidence presented by automated plagiarism detection systems
+    over their own ability to assess whether or not plagiarism has
+    taken place.
+  tags: [plagiarism, honor court, assignments, cheating, cs education]
+
+- type: inproceedings
+  id: aseese10e
+  date: 20100418
+  title: 'CoPractice: An adaptive and versatile practice tool'
+  citation: >
+    K. Buffardi, D. Churbanau, R.K.N. Jayaraman, and S.H. Edwards.
+    CoPractice: An adaptive and versatile practice tool. In
+    <i>Proceedings of 2010 ASEE Southeastern Section Annual Conference
+    and Meeting</i>, April 18-20, 2010.
+  abstract: >
+    Intelligent tutoring systems and other adaptive instructional
+    technologies facilitate learning by customizing feedback to
+    students’ struggles. However, adaptability of expert systems can
+    come at the sake of versatility. Developing software to assist
+    students in a particular domain can be challenging; to then apply
+    its expertise and pedagogical approach to another domain can be
+    both challenging and inappropriate. CoPractice is a web-centered
+    practice environment that uses community-contributed content to
+    establish a versatile system that adapts to learners based on
+    measurements of their knowledge. Selection of both questions and
+    feedback are based on persistent measurements of their
+    effectiveness. This paper describes CoPractice's measurements and
+    design for both adaptability and versatility.
+  tags: [CoPractice, CodeWorkout, practice, feedback, auto-grading, drill-and-practice, multiple choice, social, adaptive, cs education]
+
+- type: inproceedings
+  id: sigcse10a
+  date: 20100300
+  title: 'Peer review in CS2: conceptual learning'
+  citation: >
+    S. Turner, M.A. P&eacute;rez-Qui&ntilde;ones, S. Edwards, and J.
+    Chase. Peer review in CS2: conceptual learning. In <i>Proceedings
+    of the 41st ACM Technical Symposium on Computer Science
+    Education</i>, ACM, New York, NY, 2010, pp. 331–335.
+  abstract: >
+    In computer science, students could benefit from exposure to
+    critical programming concepts from multiple perspectives. Peer
+    review is one method to allow students to experience authentic uses
+    of the concepts in a non-programming manner. In this work, we
+    examine the use of the peer review process in early,
+    object-oriented, computer science courses as a way to develop the
+    reviewers' knowledge of object-oriented programming concepts,
+    specifically Abstraction, Decomposition, and Encapsulation.</p> <p>
+    To study these ideas, we used peer review exercises in two CS2
+    classes at local universities over the course of a semester. Using
+    three groups (one reviewing their peers, one reviewing the
+    instructor, and one completing small design or coding exercises),
+    we measured the students' conceptual understanding throughout the
+    semester with concept maps and the reviews they completed. We found
+    that reviewing helped students learn Decomposition, especially
+    those reviewing the instructor's programs. Overall, peer reviews
+    are a valuable method for teaching Decomposition to CS2 students
+    and can be used as an alternative way to learn object-oriented
+    programming concepts.
+  tags: [peer review, CS2, cs education, design, human factors, object-oriented, code review, SIGCSE]
+
