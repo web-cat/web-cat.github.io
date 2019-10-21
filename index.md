@@ -157,5 +157,5 @@ data:
       actions:
         - text: '<i class="fab fa-github"></i> GitHub'
           type: secondary
-          url: https://github.com/kitian616/jekyll-TeXt-theme
+          url: https://github.com/web-cat
 ---
