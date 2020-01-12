@@ -55,11 +55,9 @@ Pages marked with :warning: do not exist yet--so contribute!
 * [Assignments And Assignment Offerings](AssignmentsAndAssignmentOfferings.html)
 * [Role Based Permissions](RoleBasedPermissions.html)
 * [Web Cat Faq](WebCatFaq.html)
-  * [Try Out Web Cat](TryOutWebCat.html) (with [usage instructions](TryOutWebCat-UsageInstructions.html))
-  * Sigcse2009Workshop: self-paced, on-line, quick-start training for new instructors (a detailed outline is available lower on this page)
+  * [Try Out Web Cat](TryOutWebCat/) (with [usage instructions](TryOutWebCat/UsageInstructions.html))
+  * [SIGCSE 2009 Workshop](Sigcse2009Workshop/): self-paced, on-line, quick-start training for new instructors (a detailed outline is available lower on this page)
 * [Web Cat Features](WebCatFeatures.html) (and [Web Cat Change History](WebCatChangeHistory.html))
-* [Web-CAT Development Blog](http://people.cs.vt.edu/~edwards/Web-CAT-Blog.html)
-* [Mailing Lists](MailingLists.html)
 * [Our Publications](OurPublications.html)
 
 ## Recipes for Students 
@@ -82,7 +80,7 @@ Pages marked with :warning: do not exist yet--so contribute!
 ## Recipes for Graders 
 
 * [Grading Walkthrough](GradingWalkthrough.html) :warning: :movie_camera: 
-* [Manually Gradea Student Submission](ManuallyGradeaStudentSubmission.html) :warning:
+* [Manually Grade a Student Submission](ManuallyGradeaStudentSubmission.html) :warning:
 * [Override Late Penalties](OverrideLatePenalties.html) :warning:
 * [Give Extra Credit](GiveExtraCredit.html) :warning:
 * [Regrade One Student](RegradeOneStudent.html)
@@ -91,7 +89,7 @@ Pages marked with :warning: do not exist yet--so contribute!
 
 ### Self-paced On-line Training Materials 
 
-* [Sigcse 2009 Workshop](Sigcse2009Workshop.html): **Automatically Grading Programming Assignments with Web-CAT**
+* [SIGCSE 2009 Workshop](Sigcse2009Workshop/): **Automatically Grading Programming Assignments with Web-CAT**
 
   The workshop page contains electronic copies of the workshop materials
   in a form that you can try on your own, either on your own Web-CAT server,
@@ -127,7 +125,7 @@ Pages marked with :warning: do not exist yet--so contribute!
   * **Exercise 3**: [Changing assignment grading options](Sigcse2009Workshop/GradingOptions.html)
 
     The third exercise is all about customizing the behavior of grading
-    plug-ins, using the [JavaTddPlugin](JavaTddPlugin.html) as an example.
+    plug-ins, using the [JavaTddPlugin](JavaTddPlugin/) as an example.
     It walks you through the following activities:
 
     * Configuring an assignment without test cases
@@ -149,8 +147,8 @@ Pages marked with :warning: do not exist yet--so contribute!
 ### Bite-sized Recipes for Instructors 
 
 * Setting Up A Course Offering
-  * [Createa Course Walkthrough](CreateaCourseWalkthrough.html) (9Mb, 4min) :movie_camera:
-  * [Createa Course Offering](CreateaCourseOffering.html)
+  * [Create a Course Walkthrough](CreateaCourseWalkthrough.html) (9Mb, 4min) :movie_camera:
+  * [Create a Course Offering](CreateaCourseOffering.html)
   * [Upload Your Course Roll](UploadYourCourseRoll.html)
   * [Adding Students](AddingStudents.html)
   * [Dropping Students](DroppingStudents.html)
@@ -171,9 +169,9 @@ Pages marked with :warning: do not exist yet--so contribute!
   * [Regrade All Students](RegradeAllStudents.html)
   * [Move Back Due Date](MoveBackDueDate.html)
 * Advanced Features
-  * [Configure Blue Js Submitter](ConfigureBlueJsSubmitter.html)
+  * [Configure BlueJ's Submitter](ConfigureBlueJsSubmitter.html)
   * [Configure Eclipse Submitter](ConfigureEclipseSubmitter.html)
-  * [Installa New Plugin](InstallaNewPlugin.html) :warning:
+  * [Install a New Plugin](InstallaNewPlugin.html) :warning:
 
 ### Configuring the Java TDD Grading Plug-in 
 
@@ -258,9 +256,9 @@ Pages marked with :warning: do not exist yet--so contribute!
   * [Createa New Course](CreateaNewCourse.html)
 * Managing Users
   * [Reset User Password](ResetUserPassword.html) :warning:
-  * [Createa New User](CreateaNewUser.html)
-  * [Createa New Grader](CreateaNewGrader.html)
-  * [Createa New Instructor](CreateaNewInstructor.html)
+  * [Create a New User](CreateaNewUser.html)
+  * [Create a New Grader](CreateaNewGrader.html)
+  * [Create a New Instructor](CreateaNewInstructor.html)
   * [Grant Instructor Permissions](GrantInstructorPermissions.html)
 * [Install a New Plugin](InstallaNewPlugin.html)
 * [Set Plugin Global Properties](SetPluginGlobalProperties.html) :warning:
@@ -275,7 +273,7 @@ Pages marked with :warning: do not exist yet--so contribute!
 * [Writea Plugin](WriteaPlugin.html) :warning:
 * [Define Plugin Parameters](DefinePluginParameters.html) :warning:
 * [Simple Plugin Example](SimplePluginExample.html) :warning:
-* [Installa New Plugin](InstallaNewPlugin.html) :warning:
+* [Install a New Plugin](InstallaNewPlugin.html) :warning:
 * [Set Plugin Global Properties](SetPluginGlobalProperties.html) :warning:
 * [Edit Plugin Files Online](EditPluginFilesOnline.html) :warning:
 
