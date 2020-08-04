@@ -1,0 +1,98 @@
+---
+title: LTI Configuration Instructions
+---
+<p>
+Web-CAT now supports LTI integration with learning management systems
+(LMS) to allow for single-sign-on support from an LMS, and automatic
+grade passback to the LMS gradebook.
+</p>
+
+<h2>Add Web-CAT to an LMS Course</h2>
+<p>
+To use Web-CAT in an LTI-compatible Learning Management System (LMS), you
+will need to install Web-CAT as an external LTI application. Depending on
+the LMS, this may be done system-wide, or at the level of individual
+courses. For system-wide installation, talk to your LMS administrator. For
+individual courses, follow the steps below.
+</p>
+
+<h3>Step 1: Set Up Course Offering(s) on Web-CAT</h3>
+<p>
+Before connecting your LMS course to Web-CAT, first create your Web-CAT
+course offering(s) normally. Set up instructor or grader access for your
+course staff, and upload your course roster(s).
+</p>
+
+<h3>Step 2: Install Web-CAT as an LTI App</h3>
+<p>
+If Web-CAT is not installed system-wide on an LMS, instructors will
+typically add it to their individual courses on the LMS instead. To do
+this, you'll need 4 pieces of information:
+</p>
+<p>
+<strong>Tool Name:</strong> Web-CAT<br/>
+<strong>Configuration URL:</strong> <a href="https://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa/wa/ltiConfiguration">https://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa/wa/ltiConfiguration</a><br/>
+<strong>Consumer Key:</strong> (get from your Web-CAT administrator for your school/LMS)<br/>
+<strong>Consumer Secret:</strong> (get from your Web-CAT administrator for your school/LMS)
+</p>
+<p>
+If your school is using its own Web-CAT server, you'll want to customize
+the Configuration URL shown above so you use your own server's LTI
+configuration definition--the URL shown above is the one for Virginia
+Tech's main Web-CAT server.
+</p>
+<p>
+Follow your LMS instructions for adding Web-CAT as an external LTI tool in
+your course using the information shown above. For reference, you can read
+the Canvas instructions for doing this:
+</p>
+<p><a href="https://guides.instructure.com/m/4152/l/74482-how-do-i-configure-an-external-app-for-a-course-using-a-url">Canvas instructions for adding to an LTI tool course</a></p>
+
+<h2>Use Web-CAT for an LMS Assignment</h2>
+<p>
+Before Web-CAT can use used in a specific assignment, it must be added as
+an external LTI tool to the course (or system-wide)--see the instructions
+above. Next, you must also configure it for each assignment where Web-CAT
+will be used using the steps below.
+</p>
+
+<h3>Step 1: Create Your Assignment Writeup</h3>
+<p>
+To use Web-CAT in an assignment, you will write your assignment instructions
+as you normally would in your LMS. Perform that step first (you can always
+edit the assignment later if corrections are needed).
+</p>
+
+<h3>Step 2: Create Your Assignment on Web-CAT</h3>
+<p>
+Next, create the assignment on Web-CAT as well. Set up your assignment's
+reference tests and any grading options that are necessary.
+</p>
+
+<h3>Step 3: Copy Your Assignment URL into Web-CAT</h3>
+<p>
+Visit your assignment writeup on your LMS, and copy the URL for the
+assignment writeup page. For example, on Canvas your assignment URL might
+look like this example:
+</p>
+<p><strong>https://canvas.vt.edu/courses/58933/assignments/282390</strong></p>
+<p>
+Now, edit your assignment's properties on Web-CAT and paste this value into
+the URL box:</p>
+<p><img height="83" src="img/assignment-url-setting.png" width="398"/></p>
+<p>
+Note that the example URL shown here includes both the course ID from the
+LMS, and also the assignment ID. For Canvas URLs, Web-CAT will automatically
+extract the assignment's ID from the URL. For other LMSes, there is a
+separate entry for the LTI ID used for the assignment.
+</p>
+
+<h3>Step 4: Add Web-CAT as an External LTI Tool</h3>
+<p>
+To use Web-CAT in an assignment, you will configure the assignment on
+your LMS to use an external tool for assignment submissions. Follow your
+LMS instructions for using an external LTI tool to accept assignment
+submissions. For reference, you can read the Canvas instructions for
+doing this:
+</p>
+<p><a href="https://guides.instructure.com/m/4152/l/501360-how-do-i-add-an-assignment-using-an-external-app">Canvas instructions for using an external LTI tool for assignment submissions</a></p>

@@ -28,7 +28,7 @@ sb-main:
         url: /publications/
   - title: Web-CAT
     children:
-      - title: What is Web-CAT?
+      - title: About Web-CAT
         url: /projects/Web-CAT/
       - title: Demo
         url: /projects/Web-CAT/SubmissionWalkthrough.html
