@@ -58,6 +58,7 @@ Pages marked with :warning: do not exist yet--so contribute!
   * [Try Out Web Cat](TryOutWebCat/) (with [usage instructions](TryOutWebCat/UsageInstructions.html))
   * [SIGCSE 2009 Workshop](Sigcse2009Workshop/): self-paced, on-line, quick-start training for new instructors (a detailed outline is available lower on this page)
 * [Web Cat Features](WebCatFeatures.html) (and [Web Cat Change History](WebCatChangeHistory.html))
+* [LTI Configuration](LtiConfiguration.html)
 * [Our Publications](OurPublications.html)
 
 ## Recipes for Students 
