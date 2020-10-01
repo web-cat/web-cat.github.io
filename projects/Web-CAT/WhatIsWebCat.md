@@ -229,8 +229,8 @@ approach desired.
 
 ## Usage Statistics 
 
-As of March, 2019, the Web-CAT server at Virginia Tech had been used in
-1,306 course sections across 39 universities, on assignments covering 8
-programming languages, and has processed 3,520,581 submissions from 39,844
+As of September, 2020, the Web-CAT server at Virginia Tech had been used in
+1,642 course sections across 39 universities, on assignments covering 8
+programming languages, and has processed 4,368,856 submissions from 49,758
 students. This does not include submissions processed at other institutions
 running their own servers (approximately 90).

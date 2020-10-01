@@ -10,7 +10,7 @@ Web-CAT is an advanced automated grading system that can grade students on
 how well they test their own code. It is free, open-source software. It is
 highly customizable and extensible, and supports virtually any model of
 program grading, assessment, and feedback generation. Web-CAT is implemented
-a web application with a plug-in-style architecture so that it also can
+as a web application with a plug-in-style architecture so that it also can
 serve as a platform for providing additional student support services to
 help students learn programming or software testing. Some of its key
 features:
